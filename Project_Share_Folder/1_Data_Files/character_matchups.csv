@@ -1,0 +1,2433 @@
+character_1,character_2,char1_wins,char2_wins,total_games,char1_winrate
+metaknight,ness,6,2,8,0.75
+kazuya,young link,4,1,5,0.8
+littlemac,zelda,9,3,12,0.75
+bowser,pokemon trainer,21,21,42,0.5
+king k. rool,pokemon trainer,9,12,21,0.42857142857142855
+bowser,toon link,15,8,23,0.6521739130434783
+luigi,roy,12,3,15,0.8
+bowser,pacman,9,3,12,0.75
+kazuya,ness,4,2,6,0.6666666666666666
+ken,young link,12,3,15,0.8
+isabelle,zelda,4,1,5,0.8
+bowser,pikachu,12,8,20,0.6
+diddy kong,luigi,10,7,17,0.5882352941176471
+lucina,pacman,7,8,15,0.4666666666666667
+ness,wario,11,8,19,0.5789473684210527
+ken,zelda,10,9,19,0.5263157894736842
+pikachu,pokemon trainer,21,8,29,0.7241379310344828
+diddy kong,lucina,17,11,28,0.6071428571428571
+ken,wario,13,1,14,0.9285714285714286
+diddy kong,pikachu,27,23,50,0.54
+pikachu,wario,16,9,25,0.64
+metaknight,young link,3,2,5,0.6
+bowser,isabelle,9,3,12,0.75
+roy,young link,15,7,22,0.6818181818181818
+bowser,metaknight,10,4,14,0.7142857142857143
+isabelle,young link,3,4,7,0.42857142857142855
+bowser,bowser,11,13,24,0.4583333333333333
+pokemon trainer,young link,19,15,34,0.5588235294117647
+lucina,pokemon trainer,28,19,47,0.5957446808510638
+bowser,zelda,13,7,20,0.65
+ness,zelda,20,14,34,0.5882352941176471
+ken,pokemon trainer,13,10,23,0.5652173913043478
+diddy kong,zelda,10,10,20,0.5
+ken,pikachu,17,14,31,0.5483870967741935
+captainfalcon,hero,8,5,13,0.6153846153846154
+kazuya,sonic,7,0,7,1.0
+captainfalcon,sonic,14,9,23,0.6086956521739131
+robin,sonic,8,6,14,0.5714285714285714
+isabelle,sonic,6,5,11,0.5454545454545454
+diddy kong,dr. mario,5,1,6,0.8333333333333334
+bowser,young link,10,13,23,0.43478260869565216
+bowser,roy,26,12,38,0.6842105263157895
+roy,sora,11,1,12,0.9166666666666666
+pikachu,steve,7,2,9,0.7777777777777778
+falco,young link,18,10,28,0.6428571428571429
+bowser,diddy kong,23,10,33,0.696969696969697
+roy,zelda,13,5,18,0.7222222222222222
+king k. rool,samus,10,6,16,0.625
+falco,sonic,14,7,21,0.6666666666666666
+bowser,ken,11,9,20,0.55
+pikachu,roy,9,5,14,0.6428571428571429
+falco,sora,8,1,9,0.8888888888888888
+falco,samus,17,2,19,0.8947368421052632
+diddy kong,sora,8,4,12,0.6666666666666666
+samus,sora,11,0,11,1.0
+dr. mario,young link,3,2,5,0.6
+roy,steve,6,5,11,0.5454545454545454
+byleth,king k. rool,7,5,12,0.5833333333333334
+bowser,steve,10,4,14,0.7142857142857143
+king k. rool,sonic,5,6,11,0.45454545454545453
+falco,steve,4,3,7,0.5714285714285714
+pikachu,young link,11,6,17,0.6470588235294118
+bowser,falco,19,10,29,0.6551724137931034
+sonic,zelda,21,10,31,0.6774193548387096
+falco,pikachu,19,6,25,0.76
+falco,zelda,11,12,23,0.4782608695652174
+falco,ken,6,11,17,0.35294117647058826
+diddy kong,falco,18,12,30,0.6
+diddy kong,samus,11,7,18,0.6111111111111112
+bowser,luigi,19,6,25,0.76
+bowser,inkling,17,13,30,0.5666666666666667
+rob,roy,19,17,36,0.5277777777777778
+bowser,sonic,14,4,18,0.7777777777777778
+snake,young link,22,16,38,0.5789473684210527
+bowser,samus,10,6,16,0.625
+inkling,ness,30,18,48,0.625
+diddy kong,duckhunt,9,5,14,0.6428571428571429
+rob,sonic,37,22,59,0.6271186440677966
+bowser,snake,26,18,44,0.5909090909090909
+inkling,samus,21,13,34,0.6176470588235294
+snake,sonic,42,23,65,0.6461538461538462
+samus,zelda,18,4,22,0.8181818181818182
+samus,sonic,19,9,28,0.6785714285714286
+luigi,young link,11,4,15,0.7333333333333333
+duckhunt,pokemon trainer,4,8,12,0.3333333333333333
+ken,luigi,7,3,10,0.7
+pokemon trainer,roy,18,15,33,0.5454545454545454
+bowser,ness,18,18,36,0.5
+inkling,luigi,16,6,22,0.7272727272727273
+diddy kong,inkling,19,9,28,0.6785714285714286
+bowser,rob,28,13,41,0.6829268292682927
+inkling,snake,39,24,63,0.6190476190476191
+rob,zelda,17,10,27,0.6296296296296297
+inkling,rob,21,22,43,0.4883720930232558
+rob,samus,25,8,33,0.7575757575757576
+captainfalcon,mario,14,9,23,0.6086956521739131
+ness,pyra mythra,14,7,21,0.6666666666666666
+falco,ike,11,10,21,0.5238095238095238
+king k. rool,mario,14,1,15,0.9333333333333333
+mario,marth,5,5,10,0.5
+pyra mythra,shulk,9,3,12,0.75
+mario,mario,3,13,16,0.1875
+falco,shulk,13,4,17,0.7647058823529411
+mario,shulk,37,11,48,0.7708333333333334
+captainfalcon,pyra mythra,3,5,8,0.375
+marth,ness,7,4,11,0.6363636363636364
+ike,king k. rool,5,3,8,0.625
+pyra mythra,samus,8,4,12,0.6666666666666666
+king k. rool,marth,4,2,6,0.6666666666666666
+mario,pyra mythra,9,1,10,0.9
+falco,king k. rool,8,8,16,0.5
+falco,mario,15,4,19,0.7894736842105263
+pyra mythra,sora,8,1,9,0.8888888888888888
+samus,young link,2,3,5,0.4
+bowser,wii fit trainer,6,3,9,0.6666666666666666
+isabelle,pokemon trainer,7,12,19,0.3684210526315789
+isabelle,sora,3,2,5,0.6
+roy,samus,9,9,18,0.5
+isabelle,luigi,5,3,8,0.625
+ken,roy,10,9,19,0.5263157894736842
+pichu,richter,6,3,9,0.6666666666666666
+captainfalcon,marth,6,1,7,0.8571428571428571
+ike,mario,13,6,19,0.6842105263157895
+bowser,marth,3,3,6,0.5
+inkling,pyra mythra,10,7,17,0.5882352941176471
+bowser,mario,30,9,39,0.7692307692307693
+inkling,piranha plant,4,3,7,0.5714285714285714
+ike,ness,18,10,28,0.6428571428571429
+mario,piranha plant,4,2,6,0.6666666666666666
+ike,marth,8,2,10,0.8
+bowser,piranha plant,7,2,9,0.7777777777777778
+marth,pyra mythra,5,2,7,0.7142857142857143
+bowser,shulk,9,8,17,0.5294117647058824
+jigglypuff,sora,4,1,5,0.8
+ridley,zelda,8,6,14,0.5714285714285714
+inkling,young link,18,12,30,0.6
+bowser,incineroar,10,7,17,0.5882352941176471
+lucina,pyra mythra,9,2,11,0.8181818181818182
+falco,isabelle,5,0,5,1.0
+jigglypuff,wario,5,3,8,0.625
+inkling,zelda,25,13,38,0.6578947368421053
+isabelle,lucina,4,7,11,0.36363636363636365
+joker,pokemon trainer,29,24,53,0.5471698113207547
+ken,piranha plant,5,0,5,1.0
+sora,young link,5,4,9,0.5555555555555556
+wario,zelda,15,4,19,0.7894736842105263
+lucina,pikachu,12,10,22,0.5454545454545454
+joker,ken,11,6,17,0.6470588235294118
+joker,sora,9,2,11,0.8181818181818182
+joker,pikachu,21,10,31,0.6774193548387096
+ridley,young link,8,4,12,0.6666666666666666
+falco,pyra mythra,13,7,20,0.65
+incineroar,piranha plant,4,2,6,0.6666666666666666
+falco,pokemon trainer,20,8,28,0.7142857142857143
+isabelle,roy,7,5,12,0.5833333333333334
+falco,piranha plant,7,1,8,0.875
+jigglypuff,young link,9,3,12,0.75
+falco,lucina,12,6,18,0.6666666666666666
+piranha plant,zelda,3,2,5,0.6
+diddy kong,ken,18,11,29,0.6206896551724138
+sora,wario,9,4,13,0.6923076923076923
+joker,wario,13,7,20,0.65
+fox,robin,8,4,12,0.6666666666666666
+incineroar,incineroar,1,5,6,0.16666666666666666
+cloud,marth,2,3,5,0.4
+incineroar,yoshi,11,7,18,0.6111111111111112
+kazuya,roy,12,2,14,0.8571428571428571
+incineroar,robin,12,4,16,0.75
+incineroar,kazuya,5,2,7,0.7142857142857143
+cloud,fox,22,21,43,0.5116279069767442
+fox,yoshi,18,9,27,0.6666666666666666
+incineroar,roy,14,7,21,0.6666666666666666
+robin,yoshi,16,1,17,0.9411764705882353
+kazuya,yoshi,3,5,8,0.375
+bowser,ike,8,4,12,0.6666666666666666
+bowser,king k. rool,9,9,18,0.5
+isabelle,pyra mythra,5,0,5,1.0
+cloud,snake,49,25,74,0.6621621621621622
+rob,steve,10,9,19,0.5263157894736842
+kazuya,wolf,3,2,5,0.6
+ken,wolf,17,7,24,0.7083333333333334
+ken,snake,24,13,37,0.6486486486486487
+isabelle,ken,4,4,8,0.5
+pyra mythra,pyra mythra,1,5,6,0.16666666666666666
+cloud,steve,6,5,11,0.5454545454545454
+wolf,wolf,12,32,44,0.2727272727272727
+cloud,kazuya,4,2,6,0.6666666666666666
+wii fit trainer,wolf,10,7,17,0.5882352941176471
+snake,wolf,55,34,89,0.6179775280898876
+isabelle,snake,9,7,16,0.5625
+samus,shulk,16,12,28,0.5714285714285714
+bowser,sephiroth,10,4,14,0.7142857142857143
+byleth,young link,2,3,5,0.4
+inkling,marth,7,2,9,0.7777777777777778
+toon link,young link,7,6,13,0.5384615384615384
+inkling,isabelle,11,10,21,0.5238095238095238
+young link,zelda,13,11,24,0.5416666666666666
+ken,lucina,8,8,16,0.5
+lucina,sora,6,3,9,0.6666666666666666
+sora,zelda,6,1,7,0.8571428571428571
+byleth,isabelle,6,1,7,0.8571428571428571
+falco,inkling,10,18,28,0.35714285714285715
+sephiroth,sora,4,1,5,0.8
+inkling,sephiroth,7,2,9,0.7777777777777778
+dr. mario,luigi,3,2,5,0.6
+byleth,roy,12,3,15,0.8
+inkling,sora,4,3,7,0.5714285714285714
+ken,sephiroth,5,2,7,0.7142857142857143
+jigglypuff,pyra mythra,7,4,11,0.6363636363636364
+jigglypuff,pokemon trainer,6,2,8,0.75
+luigi,sephiroth,3,2,5,0.6
+pokemon trainer,sora,6,5,11,0.5454545454545454
+luigi,steve,5,1,6,0.8333333333333334
+inkling,ken,14,6,20,0.7
+richter,roy,8,4,12,0.6666666666666666
+daisy,rob,13,10,23,0.5652173913043478
+fox,rob,35,20,55,0.6363636363636364
+incineroar,rob,17,6,23,0.7391304347826086
+fox,richter,4,3,7,0.5714285714285714
+fox,isabelle,3,2,5,0.6
+mario,samus,13,4,17,0.7647058823529411
+king k. rool,pyra mythra,6,1,7,0.8571428571428571
+marth,shulk,10,2,12,0.8333333333333334
+mario,wolf,31,13,44,0.7045454545454546
+falco,roy,22,2,24,0.9166666666666666
+bowser,sora,8,2,10,0.8
+king k. rool,young link,9,4,13,0.6923076923076923
+wolf,zelda,20,7,27,0.7407407407407407
+byleth,sonic,9,5,14,0.6428571428571429
+steve,zelda,4,2,6,0.6666666666666666
+snake,steve,5,5,10,0.5
+bowser,lucina,15,6,21,0.7142857142857143
+ness,sonic,22,17,39,0.5641025641025641
+pokemon trainer,wario,10,13,23,0.43478260869565216
+king k. rool,zelda,10,5,15,0.6666666666666666
+luigi,snake,13,9,22,0.5909090909090909
+lucina,ness,26,12,38,0.6842105263157895
+king k. rool,wario,4,4,8,0.5
+lucina,snake,28,15,43,0.6511627906976745
+king k. rool,snake,11,9,20,0.55
+sephiroth,young link,6,1,7,0.8571428571428571
+mario,mrgameandwatch,8,5,13,0.6153846153846154
+sora,wolf,9,3,12,0.75
+sonic,sora,12,4,16,0.75
+king k. rool,steve,8,2,10,0.8
+byleth,luigi,6,2,8,0.75
+ness,roy,21,9,30,0.7
+pokemon trainer,sonic,24,9,33,0.7272727272727273
+luigi,ness,10,9,19,0.5263157894736842
+lucina,zelda,15,7,22,0.6818181818181818
+lucina,wario,11,4,15,0.7333333333333333
+snake,wario,21,10,31,0.6774193548387096
+kazuya,sephiroth,4,2,6,0.6666666666666666
+bayonetta,sora,5,3,8,0.625
+hero,roy,9,7,16,0.5625
+jigglypuff,lucina,7,4,11,0.6363636363636364
+bowser,kazuya,9,2,11,0.8181818181818182
+bayonetta,sonic,7,5,12,0.5833333333333334
+hero,luigi,5,2,7,0.7142857142857143
+king k. rool,lucina,14,14,28,0.5
+bayonetta,hero,6,1,7,0.8571428571428571
+bayonetta,zelda,7,6,13,0.5384615384615384
+dr. mario,rob,4,7,11,0.36363636363636365
+sonic,young link,17,12,29,0.5862068965517241
+luigi,sonic,15,9,24,0.625
+king k. rool,luigi,6,3,9,0.6666666666666666
+hero,zelda,4,1,5,0.8
+falco,jigglypuff,6,4,10,0.6
+link,zelda,7,7,14,0.5
+bayonetta,marth,5,2,7,0.7142857142857143
+captainfalcon,diddy kong,9,6,15,0.6
+kazuya,wario,5,1,6,0.8333333333333334
+bayonetta,young link,6,2,8,0.75
+luigi,pokemon trainer,13,4,17,0.7647058823529411
+diddy kong,isabelle,6,0,6,1.0
+pacman,snake,11,8,19,0.5789473684210527
+falco,wario,13,2,15,0.8666666666666667
+bayonetta,pokemon trainer,17,7,24,0.7083333333333334
+diddy kong,snake,49,23,72,0.6805555555555556
+diddy kong,pokemon trainer,19,5,24,0.7916666666666666
+diddy kong,wario,18,5,23,0.782608695652174
+bowser,captainfalcon,11,9,20,0.55
+king k. rool,link,7,9,16,0.4375
+captainfalcon,young link,4,4,8,0.5
+link,pacman,5,10,15,0.3333333333333333
+jigglypuff,luigi,6,1,7,0.8571428571428571
+isabelle,link,4,4,8,0.5
+bayonetta,piranha plant,4,2,6,0.6666666666666666
+kazuya,snake,5,0,5,1.0
+falco,link,12,5,17,0.7058823529411765
+bayonetta,snake,13,7,20,0.65
+falco,luigi,9,5,14,0.6428571428571429
+bayonetta,diddy kong,14,4,18,0.7777777777777778
+bayonetta,wario,6,2,8,0.75
+bayonetta,bowser,12,10,22,0.5454545454545454
+shulk,wolf,19,16,35,0.5428571428571428
+bowser,zero suit samus,15,3,18,0.8333333333333334
+samus,wolf,18,17,35,0.5142857142857142
+wolf,zero suit samus,20,13,33,0.6060606060606061
+mario,zero suit samus,15,19,34,0.4411764705882353
+piranha plant,samus,6,0,6,1.0
+bayonetta,wolf,11,16,27,0.4074074074074074
+bayonetta,shulk,10,9,19,0.5263157894736842
+bayonetta,mario,12,2,14,0.8571428571428571
+falco,kazuya,4,4,8,0.5
+incineroar,mewtwo,6,1,7,0.8571428571428571
+luigi,pikachu,10,9,19,0.5263157894736842
+falco,incineroar,11,3,14,0.7857142857142857
+falco,snake,31,11,42,0.7380952380952381
+kazuya,pokemon trainer,4,3,7,0.5714285714285714
+pokemon trainer,snake,46,24,70,0.6571428571428571
+pikachu,snake,31,26,57,0.543859649122807
+falco,mewtwo,5,2,7,0.7142857142857143
+mrgameandwatch,pokemon trainer,20,11,31,0.6451612903225806
+mrgameandwatch,young link,7,4,11,0.6363636363636364
+diddy kong,lucas,7,2,9,0.7777777777777778
+ness,young link,13,9,22,0.5909090909090909
+diddy kong,ness,20,14,34,0.5882352941176471
+incineroar,pokemon trainer,12,6,18,0.6666666666666666
+bowser,mrgameandwatch,9,5,14,0.6428571428571429
+pokemon trainer,wii fit trainer,10,8,18,0.5555555555555556
+lucas,luigi,5,6,11,0.45454545454545453
+lucas,young link,3,3,6,0.5
+falco,lucas,4,5,9,0.4444444444444444
+bayonetta,luigi,2,5,7,0.2857142857142857
+fox,mario,14,10,24,0.5833333333333334
+ness,wolf,33,13,46,0.717391304347826
+corrin,wolf,8,6,14,0.5714285714285714
+bowser,wolf,23,13,36,0.6388888888888888
+corrin,samus,8,6,14,0.5714285714285714
+fox,marth,4,1,5,0.8
+piranha plant,wolf,13,0,13,1.0
+king k. rool,wolf,19,17,36,0.5277777777777778
+corrin,marth,3,3,6,0.5
+bayonetta,samus,3,4,7,0.42857142857142855
+simon,young link,4,1,5,0.8
+duckhunt,ken,6,4,10,0.6
+rob,young link,19,12,31,0.6129032258064516
+daisy,duckhunt,5,0,5,1.0
+richter,young link,2,5,7,0.2857142857142857
+richter,zelda,5,2,7,0.7142857142857143
+daisy,zelda,4,3,7,0.5714285714285714
+marth,wolf,7,5,12,0.5833333333333334
+pyra mythra,wolf,17,8,25,0.68
+bayonetta,zero suit samus,9,6,15,0.6
+bayonetta,pyra mythra,8,3,11,0.7272727272727273
+pyra mythra,zero suit samus,16,19,35,0.45714285714285713
+diddy kong,incineroar,5,3,8,0.625
+roy,snake,31,16,47,0.6595744680851063
+diddy kong,young link,21,6,27,0.7777777777777778
+pokemon trainer,wolf,54,24,78,0.6923076923076923
+ness,pokemon trainer,30,22,52,0.5769230769230769
+incineroar,wolf,21,9,30,0.7
+incineroar,zelda,13,9,22,0.5909090909090909
+falco,ness,14,9,23,0.6086956521739131
+luigi,wario,10,3,13,0.7692307692307693
+wolf,young link,24,9,33,0.7272727272727273
+falco,wolf,28,11,39,0.717948717948718
+ness,shulk,18,11,29,0.6206896551724138
+king k. rool,ness,11,10,21,0.5238095238095238
+bowser,pyra mythra,6,3,9,0.6666666666666666
+bayonetta,pikachu,6,6,12,0.5
+captainfalcon,yoshi,17,18,35,0.4857142857142857
+pikachu,shulk,7,6,13,0.5384615384615384
+samus,yoshi,13,10,23,0.5652173913043478
+mario,yoshi,20,7,27,0.7407407407407407
+pikachu,pyra mythra,12,8,20,0.6
+kirby,shulk,3,7,10,0.3
+captainfalcon,samus,10,3,13,0.7692307692307693
+captainfalcon,kirby,6,7,13,0.46153846153846156
+fox,wolf,37,23,60,0.6166666666666667
+captainfalcon,falco,6,6,12,0.5
+fox,shulk,13,5,18,0.7222222222222222
+pikachu,samus,12,6,18,0.6666666666666666
+captainfalcon,pacman,8,5,13,0.6153846153846154
+pacman,pikachu,11,6,17,0.6470588235294118
+cloud,diddy kong,15,7,22,0.6818181818181818
+fox,wario,7,8,15,0.4666666666666667
+mrgameandwatch,pacman,7,2,9,0.7777777777777778
+fox,mrgameandwatch,10,5,15,0.6666666666666666
+diddy kong,fox,19,7,26,0.7307692307692307
+pacman,wario,3,3,6,0.5
+cloud,mrgameandwatch,21,5,26,0.8076923076923077
+bowser,fox,12,6,18,0.6666666666666666
+roy,wario,16,5,21,0.7619047619047619
+luigi,robin,5,2,7,0.7142857142857143
+bowser,byleth,10,2,12,0.8333333333333334
+roy,wolf,31,17,48,0.6458333333333334
+robin,roy,15,4,19,0.7894736842105263
+falco,robin,7,8,15,0.4666666666666667
+kazuya,wii fit trainer,3,2,5,0.6
+inkling,wolf,35,24,59,0.5932203389830508
+incineroar,inkling,17,5,22,0.7727272727272727
+wii fit trainer,young link,3,3,6,0.5
+diddy kong,wii fit trainer,11,4,15,0.7333333333333333
+inkling,wii fit trainer,12,6,18,0.6666666666666666
+pikachu,wii fit trainer,2,4,6,0.3333333333333333
+incineroar,ness,14,8,22,0.6363636363636364
+inkling,kazuya,6,2,8,0.75
+kazuya,luigi,4,6,10,0.4
+wario,wolf,12,6,18,0.6666666666666666
+incineroar,joker,8,9,17,0.47058823529411764
+sonic,wii fit trainer,8,3,11,0.7272727272727273
+bowser,joker,17,11,28,0.6071428571428571
+luigi,luigi,3,5,8,0.375
+bayonetta,falco,4,8,12,0.3333333333333333
+joker,luigi,8,5,13,0.6153846153846154
+diddy kong,joker,17,12,29,0.5862068965517241
+roy,sonic,14,8,22,0.6363636363636364
+incineroar,king k. rool,8,7,15,0.5333333333333333
+king k. rool,wii fit trainer,7,2,9,0.7777777777777778
+palutena,steve,4,4,8,0.5
+steve,yoshi,9,3,12,0.75
+bowser,ridley,10,7,17,0.5882352941176471
+steve,steve,2,4,6,0.3333333333333333
+ridley,steve,4,1,5,0.8
+lucina,steve,5,1,6,0.8333333333333334
+bowser,rosalina & luma,8,2,10,0.8
+lucina,samus,10,5,15,0.6666666666666666
+inkling,link,20,7,27,0.7407407407407407
+cloud,pokemon trainer,33,19,52,0.6346153846153846
+joker,palutena,37,21,58,0.6379310344827587
+palutena,pokemon trainer,41,18,59,0.6949152542372882
+inkling,palutena,30,21,51,0.5882352941176471
+captainfalcon,link,11,13,24,0.4583333333333333
+link,pokemon trainer,22,12,34,0.6470588235294118
+inkling,pokemon trainer,34,30,64,0.53125
+link,lucina,23,11,34,0.6764705882352942
+inkling,joker,17,9,26,0.6538461538461539
+captainfalcon,inkling,23,13,36,0.6388888888888888
+joker,link,25,12,37,0.6756756756756757
+inkling,lucina,28,19,47,0.5957446808510638
+captainfalcon,joker,8,10,18,0.4444444444444444
+joker,lucina,12,8,20,0.6
+captainfalcon,lucina,17,12,29,0.5862068965517241
+link,snake,39,24,63,0.6190476190476191
+captainfalcon,wolf,22,18,40,0.55
+link,wolf,26,14,40,0.65
+captainfalcon,pokemon trainer,14,14,28,0.5
+link,palutena,24,24,48,0.5
+lucina,palutena,34,30,64,0.53125
+greninja,mrgameandwatch,9,1,10,0.9
+falco,zero suit samus,13,9,22,0.5909090909090909
+samus,terry,5,5,10,0.5
+mario,steve,4,2,6,0.6666666666666666
+yoshi,yoshi,11,14,25,0.44
+falco,mrgameandwatch,6,7,13,0.46153846153846156
+terry,yoshi,6,5,11,0.5454545454545454
+mrgameandwatch,yoshi,14,10,24,0.5833333333333334
+bayonetta,sheik,4,1,5,0.8
+ryu,sheik,5,0,5,1.0
+bayonetta,steve,3,2,5,0.6
+sonic,steve,2,5,7,0.2857142857142857
+ridley,roy,7,7,14,0.5
+captainfalcon,ryu,5,4,9,0.5555555555555556
+shulk,zelda,4,3,7,0.5714285714285714
+joker,steve,6,2,8,0.75
+captainfalcon,roy,15,14,29,0.5172413793103449
+captainfalcon,steve,2,5,7,0.2857142857142857
+joker,shulk,23,10,33,0.696969696969697
+roy,shulk,7,6,13,0.5384615384615384
+inkling,roy,21,13,34,0.6176470588235294
+shulk,steve,4,2,6,0.6666666666666666
+inkling,shulk,8,9,17,0.47058823529411764
+captainfalcon,shulk,11,9,20,0.55
+littlemac,sonic,4,5,9,0.4444444444444444
+ryu,wii fit trainer,3,2,5,0.6
+littlemac,ridley,4,2,6,0.6666666666666666
+captainfalcon,chrom,14,5,19,0.7368421052631579
+littlemac,shulk,5,5,10,0.5
+duckhunt,sonic,14,11,25,0.56
+kirby,wii fit trainer,3,2,5,0.6
+captainfalcon,wii fit trainer,8,7,15,0.5333333333333333
+greninja,rob,24,18,42,0.5714285714285714
+littlemac,ryu,6,0,6,1.0
+pichu,sonic,12,8,20,0.6
+minmin,rob,11,5,16,0.6875
+ryu,shulk,4,3,7,0.5714285714285714
+cloud,littlemac,13,4,17,0.7647058823529411
+littlemac,rob,13,5,18,0.7222222222222222
+mrgameandwatch,shulk,6,6,12,0.5
+isabelle,pichu,5,2,7,0.7142857142857143
+shulk,sonic,13,5,18,0.7222222222222222
+greninja,shulk,8,5,13,0.6153846153846154
+lucas,wii fit trainer,5,2,7,0.7142857142857143
+kazuya,shulk,2,4,6,0.3333333333333333
+greninja,littlemac,2,3,5,0.4
+ness,zero suit samus,28,13,41,0.6829268292682927
+ryu,wolf,12,5,17,0.7058823529411765
+fox,ridley,9,4,13,0.6923076923076923
+pichu,ryu,6,0,6,1.0
+captainfalcon,mrgameandwatch,12,3,15,0.8
+ike,steve,6,2,8,0.75
+pichu,samus,4,1,5,0.8
+incineroar,zero suit samus,3,3,6,0.5
+littlemac,wolf,9,2,11,0.8181818181818182
+lucas,wolf,9,7,16,0.5625
+isabelle,rob,7,8,15,0.4666666666666667
+littlemac,zero suit samus,6,5,11,0.5454545454545454
+isabelle,wolf,9,6,15,0.6
+ridley,wii fit trainer,5,0,5,1.0
+isabelle,littlemac,4,1,5,0.8
+corrin,roy,7,2,9,0.7777777777777778
+ness,pichu,12,10,22,0.5454545454545454
+fox,kazuya,5,3,8,0.625
+minmin,roy,6,8,14,0.42857142857142855
+cloud,greninja,19,14,33,0.5757575757575758
+mrgameandwatch,wolf,23,5,28,0.8214285714285714
+fox,pichu,9,6,15,0.6
+pichu,ridley,8,3,11,0.7272727272727273
+fox,zero suit samus,24,18,42,0.5714285714285714
+steve,wolf,4,3,7,0.5714285714285714
+donkeykong,rob,41,22,63,0.6507936507936508
+samus,sheik,5,1,6,0.8333333333333334
+donkeykong,samus,13,9,22,0.5909090909090909
+donkeykong,ryu,4,1,5,0.8
+sheik,sonic,17,11,28,0.6071428571428571
+rob,sheik,10,11,21,0.47619047619047616
+lucina,richter,10,3,13,0.7692307692307693
+king dedede,zero suit samus,10,10,20,0.5
+isabelle,pikachu,6,3,9,0.6666666666666666
+rosalina & luma,zero suit samus,5,1,6,0.8333333333333334
+ike,richter,3,5,8,0.375
+donkeykong,wario,13,7,20,0.65
+ike,wario,9,1,10,0.9
+isabelle,shulk,6,4,10,0.6
+shulk,zero suit samus,16,10,26,0.6153846153846154
+pikachu,zero suit samus,24,18,42,0.5714285714285714
+richter,zero suit samus,8,1,9,0.8888888888888888
+donkeykong,richter,8,0,8,1.0
+donkeykong,sephiroth,6,4,10,0.6
+sheik,wario,4,2,6,0.6666666666666666
+donkeykong,sheik,13,10,23,0.5652173913043478
+ike,sheik,4,6,10,0.4
+donkeykong,pokemon trainer,29,14,43,0.6744186046511628
+incineroar,luigi,4,3,7,0.5714285714285714
+luigi,rob,10,8,18,0.5555555555555556
+steve,wario,4,3,7,0.5714285714285714
+captainfalcon,cloud,13,13,26,0.5
+luigi,ridley,4,5,9,0.4444444444444444
+fox,metaknight,6,4,10,0.6
+greninja,palutena,16,9,25,0.64
+metaknight,rob,6,5,11,0.5454545454545454
+greninja,samus,5,8,13,0.38461538461538464
+fox,samus,10,5,15,0.6666666666666666
+captainfalcon,ridley,10,1,11,0.9090909090909091
+cloud,jigglypuff,3,7,10,0.3
+bowser,jigglypuff,3,2,5,0.6
+ken,megaman,7,3,10,0.7
+greninja,marth,6,1,7,0.8571428571428571
+greninja,robin,11,3,14,0.7857142857142857
+greninja,wolf,31,17,48,0.6458333333333334
+greninja,megaman,8,4,12,0.6666666666666666
+ike,peach,12,7,19,0.631578947368421
+robin,wolf,14,8,22,0.6363636363636364
+greninja,peach,13,6,19,0.6842105263157895
+peach,wolf,21,13,34,0.6176470588235294
+greninja,ike,12,9,21,0.5714285714285714
+jigglypuff,megaman,2,3,5,0.4
+ike,jigglypuff,5,1,6,0.8333333333333334
+peach,robin,5,3,8,0.625
+minmin,toon link,7,5,12,0.5833333333333334
+piranha plant,ridley,4,1,5,0.8
+mrgameandwatch,zero suit samus,12,5,17,0.7058823529411765
+minmin,mrgameandwatch,3,6,9,0.3333333333333333
+diddy kong,minmin,6,6,12,0.5
+ridley,zero suit samus,6,4,10,0.6
+ike,mrgameandwatch,6,5,11,0.5454545454545454
+ridley,wolf,18,9,27,0.6666666666666666
+mrgameandwatch,toon link,20,3,23,0.8695652173913043
+diddy kong,zero suit samus,18,15,33,0.5454545454545454
+minmin,snake,14,11,25,0.56
+diddy kong,piranha plant,3,2,5,0.6
+falco,minmin,6,2,8,0.75
+bowser,donkeykong,11,5,16,0.6875
+kazuya,toon link,6,5,11,0.5454545454545454
+mrgameandwatch,snake,21,9,30,0.7
+bayonetta,mrgameandwatch,5,6,11,0.45454545454545453
+zero suit samus,zero suit samus,8,19,27,0.2962962962962963
+diddy kong,sonic,31,13,44,0.7045454545454546
+corrin,snake,9,2,11,0.8181818181818182
+joker,robin,8,2,10,0.8
+lucina,zero suit samus,14,11,25,0.56
+fox,ken,10,10,20,0.5
+diddy kong,palutena,35,14,49,0.7142857142857143
+lucas,palutena,10,7,17,0.5882352941176471
+diddy kong,hero,3,3,6,0.5
+daisy,ness,7,4,11,0.6363636363636364
+fox,lucina,18,4,22,0.8181818181818182
+corrin,palutena,11,3,14,0.7857142857142857
+joker,lucas,7,5,12,0.5833333333333334
+hero,lucas,4,3,7,0.5714285714285714
+hero,palutena,12,5,17,0.7058823529411765
+diddy kong,ice climbers,5,2,7,0.7142857142857143
+palutena,sonic,46,23,69,0.6666666666666666
+robin,sheik,4,3,7,0.5714285714285714
+ice climbers,ness,3,2,5,0.6
+palutena,wario,18,16,34,0.5294117647058824
+diddy kong,sheik,9,9,18,0.5
+ken,zero suit samus,27,17,44,0.6136363636363636
+daisy,sheik,5,6,11,0.45454545454545453
+ken,sheik,7,6,13,0.5384615384615384
+lucina,sheik,7,8,15,0.4666666666666667
+lucas,lucina,10,10,20,0.5
+hero,lucina,6,1,7,0.8571428571428571
+pokemon trainer,terry,4,2,6,0.6666666666666666
+mrgameandwatch,rosalina & luma,4,2,6,0.6666666666666666
+sheik,wolf,10,3,13,0.7692307692307693
+ice climbers,joker,4,1,5,0.8
+lucas,snake,12,5,17,0.7058823529411765
+hero,jigglypuff,5,0,5,1.0
+daisy,ken,7,2,9,0.7777777777777778
+palutena,sheik,12,14,26,0.46153846153846156
+ice climbers,palutena,6,7,13,0.46153846153846156
+jigglypuff,mrgameandwatch,4,2,6,0.6666666666666666
+joker,kirby,9,6,15,0.6
+pokemon trainer,rosalina & luma,8,6,14,0.5714285714285714
+kirby,wolf,17,7,24,0.7083333333333334
+daisy,wolf,6,5,11,0.5454545454545454
+jigglypuff,sheik,2,3,5,0.4
+daisy,palutena,9,12,21,0.42857142857142855
+ice climbers,sheik,6,2,8,0.75
+joker,rosalina & luma,6,4,10,0.6
+joker,ridley,10,3,13,0.7692307692307693
+mrgameandwatch,rob,25,21,46,0.5434782608695652
+palutena,shulk,22,19,41,0.5365853658536586
+rob,shulk,18,12,30,0.6
+pacman,zero suit samus,8,7,15,0.5333333333333333
+jigglypuff,snake,11,3,14,0.7857142857142857
+toon link,zero suit samus,17,8,25,0.68
+fox,ness,22,21,43,0.5116279069767442
+chrom,pichu,3,6,9,0.3333333333333333
+sora,zero suit samus,7,5,12,0.5833333333333334
+palutena,snake,64,34,98,0.6530612244897959
+banjo & kazooie,wolf,7,4,11,0.6363636363636364
+corrin,zelda,10,2,12,0.8333333333333334
+captainfalcon,fox,13,10,23,0.5652173913043478
+megaman,pyra mythra,14,6,20,0.7
+cloud,shulk,14,10,24,0.5833333333333334
+peach,zero suit samus,17,3,20,0.85
+snake,snake,23,30,53,0.4339622641509434
+captainfalcon,toon link,8,7,15,0.5333333333333333
+banjo & kazooie,pyra mythra,3,2,5,0.6
+peach,sonic,18,8,26,0.6923076923076923
+villager,zero suit samus,25,12,37,0.6756756756756757
+metaknight,pokemon trainer,10,4,14,0.7142857142857143
+sheik,toon link,12,3,15,0.8
+joker,pichu,9,8,17,0.5294117647058824
+pokemon trainer,zero suit samus,34,9,43,0.7906976744186046
+joker,toon link,15,11,26,0.5769230769230769
+joker,sonic,26,15,41,0.6341463414634146
+link,young link,15,4,19,0.7894736842105263
+incineroar,jigglypuff,5,4,9,0.5555555555555556
+banjo & kazooie,toon link,2,4,6,0.3333333333333333
+isabelle,palutena,10,5,15,0.6666666666666666
+jigglypuff,ness,9,5,14,0.6428571428571429
+cloud,toon link,19,11,30,0.6333333333333333
+pyra mythra,toon link,9,6,15,0.6
+captainfalcon,zelda,15,10,25,0.6
+ness,ness,2,9,11,0.18181818181818182
+pichu,zero suit samus,12,8,20,0.6
+peach,samus,5,7,12,0.4166666666666667
+isabelle,villager,4,1,5,0.8
+metaknight,toon link,3,2,5,0.6
+captainfalcon,ness,10,13,23,0.43478260869565216
+sheik,zero suit samus,25,28,53,0.4716981132075472
+toon link,villager,11,15,26,0.4230769230769231
+ness,snake,25,28,53,0.4716981132075472
+toon link,toon link,7,5,12,0.5833333333333334
+ness,sheik,7,13,20,0.35
+samus,toon link,7,7,14,0.5
+pokemon trainer,toon link,12,9,21,0.5714285714285714
+pokemon trainer,shulk,22,3,25,0.88
+byleth,ness,8,5,13,0.6153846153846154
+byleth,mario,4,2,6,0.6666666666666666
+cloud,ken,9,6,15,0.6
+byleth,link,4,4,8,0.5
+ken,link,7,6,13,0.5384615384615384
+mario,pokemon trainer,22,7,29,0.7586206896551724
+mario,toon link,10,4,14,0.7142857142857143
+donkeykong,mii swordfighter,5,3,8,0.625
+donkeykong,wolf,27,23,50,0.54
+lucario,rob,13,5,18,0.7222222222222222
+pikachu,villager,10,9,19,0.5263157894736842
+pikachu,ryu,4,3,7,0.5714285714285714
+greninja,luigi,2,4,6,0.3333333333333333
+ridley,toon link,5,4,9,0.5555555555555556
+greninja,ridley,9,5,14,0.6428571428571429
+rob,toon link,24,14,38,0.631578947368421
+luigi,toon link,3,2,5,0.6
+diddy kong,mario,13,12,25,0.52
+samus,zero suit samus,8,9,17,0.47058823529411764
+diddy kong,ryu,6,2,8,0.75
+lucario,toon link,3,5,8,0.375
+link,pikachu,15,13,28,0.5357142857142857
+link,samus,8,2,10,0.8
+byleth,pokemon trainer,7,4,11,0.6363636363636364
+ness,rob,37,23,60,0.6166666666666667
+bowserjr,rob,16,8,24,0.6666666666666666
+palutena,toon link,20,13,33,0.6060606060606061
+palutena,ridley,12,7,19,0.631578947368421
+bayonetta,ganondorf,7,3,10,0.7
+zelda,zero suit samus,6,7,13,0.46153846153846156
+ganondorf,link,11,4,15,0.7333333333333333
+cloud,ness,28,17,45,0.6222222222222222
+greninja,mario,9,9,18,0.5
+villager,wolf,14,5,19,0.7368421052631579
+link,mario,11,3,14,0.7857142857142857
+ness,ryu,8,2,10,0.8
+mario,snake,25,15,40,0.625
+mario,ness,25,5,30,0.8333333333333334
+snake,zero suit samus,60,41,101,0.594059405940594
+shulk,snake,17,14,31,0.5483870967741935
+darksamus,wolf,3,6,9,0.3333333333333333
+duckhunt,ness,10,7,17,0.5882352941176471
+sonic,wolf,12,7,19,0.631578947368421
+duckhunt,greninja,8,3,11,0.7272727272727273
+king dedede,link,10,6,16,0.625
+rob,wolf,33,27,60,0.55
+ganondorf,greninja,5,6,11,0.45454545454545453
+bowserjr,cloud,7,4,11,0.6363636363636364
+link,sonic,26,20,46,0.5652173913043478
+greninja,villager,5,4,9,0.5555555555555556
+cloud,mario,14,14,28,0.5
+ryu,sonic,6,1,7,0.8571428571428571
+mario,villager,5,4,9,0.5555555555555556
+mario,palutena,21,8,29,0.7241379310344828
+roy,yoshi,23,15,38,0.6052631578947368
+luigi,wolf,14,6,20,0.7
+joker,richter,7,3,10,0.7
+diddy kong,yoshi,19,10,29,0.6551724137931034
+ike,palutena,31,7,38,0.8157894736842105
+joker,young link,7,7,14,0.5
+bayonetta,ike,7,6,13,0.5384615384615384
+ike,wolf,19,14,33,0.5757575757575758
+ike,joker,10,7,17,0.5882352941176471
+mario,mewtwo,10,3,13,0.7692307692307693
+palutena,richter,9,6,15,0.6
+mewtwo,roy,6,1,7,0.8571428571428571
+mewtwo,young link,6,2,8,0.75
+palutena,yoshi,41,32,73,0.5616438356164384
+palutena,young link,24,11,35,0.6857142857142857
+ike,snake,34,13,47,0.723404255319149
+diddy kong,ganondorf,7,6,13,0.5384615384615384
+mario,pacman,6,1,7,0.8571428571428571
+cloud,luigi,13,8,21,0.6190476190476191
+pacman,sonic,15,0,15,1.0
+king k. rool,pikachu,7,2,9,0.7777777777777778
+lucina,rob,31,17,48,0.6458333333333334
+luigi,shulk,6,6,12,0.5
+pacman,rob,13,8,21,0.6190476190476191
+fox,sonic,29,20,49,0.5918367346938775
+bayonetta,rob,23,9,32,0.71875
+pikachu,sonic,30,18,48,0.625
+sonic,sonic,3,8,11,0.2727272727272727
+cloud,king k. rool,18,10,28,0.6428571428571429
+pacman,pokemon trainer,10,7,17,0.5882352941176471
+luigi,pacman,6,6,12,0.5
+king k. rool,rob,16,13,29,0.5517241379310345
+fox,luigi,9,7,16,0.5625
+bayonetta,king k. rool,5,3,8,0.625
+lucina,luigi,10,2,12,0.8333333333333334
+joker,pyra mythra,9,4,13,0.6923076923076923
+cloud,pacman,9,9,18,0.5
+fox,pokemon trainer,28,18,46,0.6086956521739131
+luigi,mario,5,8,13,0.38461538461538464
+bayonetta,fox,12,3,15,0.8
+kazuya,mario,7,3,10,0.7
+bowserjr,mario,3,5,8,0.375
+bowserjr,diddy kong,7,5,12,0.5833333333333334
+diddy kong,donkeykong,19,7,26,0.7307692307692307
+piranha plant,terry,3,3,6,0.5
+bowserjr,zero suit samus,5,3,8,0.625
+bowserjr,terry,1,5,6,0.16666666666666666
+bowser,wario,8,9,17,0.47058823529411764
+ken,yoshi,8,6,14,0.5714285714285714
+incineroar,pyra mythra,6,2,8,0.75
+palutena,zero suit samus,39,34,73,0.5342465753424658
+pyra mythra,yoshi,10,9,19,0.5263157894736842
+luigi,zero suit samus,6,4,10,0.6
+luigi,pyra mythra,7,1,8,0.875
+metaknight,robin,4,3,7,0.5714285714285714
+palutena,robin,18,12,30,0.6
+incineroar,ken,5,1,6,0.8333333333333334
+peach,pyra mythra,11,2,13,0.8461538461538461
+kirby,pyra mythra,5,2,7,0.7142857142857143
+kirby,peach,5,4,9,0.5555555555555556
+bowser,duckhunt,5,5,10,0.5
+bowser,ganondorf,4,9,13,0.3076923076923077
+ken,ness,10,13,23,0.43478260869565216
+king dedede,roy,14,8,22,0.6363636363636364
+villager,wario,3,5,8,0.375
+bowser,pichu,11,4,15,0.7333333333333333
+sephiroth,wolf,9,5,14,0.6428571428571429
+rob,sephiroth,13,1,14,0.9285714285714286
+fox,toon link,16,10,26,0.6153846153846154
+duckhunt,pichu,3,2,5,0.6
+captainfalcon,wario,7,5,12,0.5833333333333334
+king dedede,rob,15,14,29,0.5172413793103449
+captainfalcon,ganondorf,10,9,19,0.5263157894736842
+king dedede,mario,14,8,22,0.6363636363636364
+villager,zelda,7,3,10,0.7
+pichu,roy,11,6,17,0.6470588235294118
+ganondorf,wolf,18,5,23,0.782608695652174
+roy,villager,2,5,7,0.2857142857142857
+roy,sephiroth,6,4,10,0.6
+byleth,ken,2,3,5,0.4
+king dedede,zelda,11,3,14,0.7857142857142857
+captainfalcon,sephiroth,6,0,6,1.0
+joker,sephiroth,5,0,5,1.0
+byleth,king dedede,5,3,8,0.625
+pokemon trainer,zelda,8,10,18,0.4444444444444444
+donkeykong,yoshi,19,18,37,0.5135135135135135
+duckhunt,pacman,2,5,7,0.2857142857142857
+fox,sephiroth,4,4,8,0.5
+toon link,wario,8,11,19,0.42105263157894735
+byleth,rob,7,6,13,0.5384615384615384
+donkeykong,pichu,7,6,13,0.5384615384615384
+pacman,sephiroth,6,0,6,1.0
+duckhunt,yoshi,4,3,7,0.5714285714285714
+donkeykong,ness,29,14,43,0.6744186046511628
+byleth,wario,9,2,11,0.8181818181818182
+byleth,pacman,4,2,6,0.6666666666666666
+fox,pacman,11,7,18,0.6111111111111112
+fox,roy,20,3,23,0.8695652173913043
+ness,toon link,20,9,29,0.6896551724137931
+donkeykong,pacman,7,9,16,0.4375
+ken,rob,10,5,15,0.6666666666666666
+pacman,zelda,7,6,13,0.5384615384615384
+pichu,rob,17,9,26,0.6538461538461539
+toon link,zelda,9,2,11,0.8181818181818182
+captainfalcon,donkeykong,12,10,22,0.5454545454545454
+ken,pacman,5,4,9,0.5555555555555556
+pacman,pichu,4,2,6,0.6666666666666666
+fox,zelda,9,11,20,0.45
+roy,toon link,7,9,16,0.4375
+inkling,king k. rool,17,13,30,0.5666666666666667
+mrgameandwatch,sephiroth,5,0,5,1.0
+yoshi,zelda,17,8,25,0.68
+falco,king dedede,5,3,8,0.625
+ness,steve,5,2,7,0.7142857142857143
+king dedede,pacman,8,4,12,0.6666666666666666
+pacman,steve,3,3,6,0.5
+fox,steve,3,2,5,0.6
+duckhunt,falco,5,2,7,0.7142857142857143
+duckhunt,zelda,4,2,6,0.6666666666666666
+king dedede,mrgameandwatch,10,4,14,0.7142857142857143
+sheik,zelda,6,4,10,0.6
+bowser,king dedede,6,4,10,0.6
+pacman,roy,7,13,20,0.35
+yoshi,young link,5,12,17,0.29411764705882354
+bayonetta,roy,8,4,12,0.6666666666666666
+falco,sheik,10,9,19,0.5263157894736842
+king dedede,toon link,6,5,11,0.5454545454545454
+byleth,duckhunt,3,3,6,0.5
+falco,pacman,4,5,9,0.4444444444444444
+mario,zelda,10,4,14,0.7142857142857143
+duckhunt,king dedede,4,2,6,0.6666666666666666
+diddy kong,pacman,13,2,15,0.8666666666666667
+mario,young link,6,4,10,0.6
+ken,king dedede,4,3,7,0.5714285714285714
+king dedede,young link,9,7,16,0.5625
+diddy kong,roy,22,7,29,0.7586206896551724
+diddy kong,steve,3,2,5,0.6
+rob,yoshi,32,23,55,0.5818181818181818
+bayonetta,duckhunt,5,2,7,0.7142857142857143
+falco,toon link,15,7,22,0.6818181818181818
+donkeykong,falco,17,10,27,0.6296296296296297
+pacman,toon link,8,4,12,0.6666666666666666
+diddy kong,kazuya,6,1,7,0.8571428571428571
+byleth,fox,9,0,9,1.0
+falco,fox,14,8,22,0.6363636363636364
+toon link,yoshi,13,11,24,0.5416666666666666
+bayonetta,ness,14,8,22,0.6363636363636364
+falco,rob,20,20,40,0.5
+bayonetta,inkling,13,6,19,0.6842105263157895
+inkling,pacman,14,9,23,0.6086956521739131
+ness,sephiroth,4,2,6,0.6666666666666666
+mario,sephiroth,7,1,8,0.875
+rob,wario,14,4,18,0.7777777777777778
+mario,wario,5,1,6,0.8333333333333334
+sephiroth,wario,2,5,7,0.2857142857142857
+byleth,sephiroth,2,5,7,0.2857142857142857
+duckhunt,toon link,9,6,15,0.6
+sephiroth,toon link,3,3,6,0.5
+pichu,toon link,13,3,16,0.8125
+duckhunt,rob,7,6,13,0.5384615384615384
+byleth,toon link,4,5,9,0.4444444444444444
+mario,pichu,8,5,13,0.6153846153846154
+byleth,mrgameandwatch,5,1,6,0.8333333333333334
+pit,rob,1,6,7,0.14285714285714285
+inkling,toon link,13,11,24,0.5416666666666666
+byleth,zelda,3,2,5,0.6
+duckhunt,mrgameandwatch,6,1,7,0.8571428571428571
+inkling,pit,12,2,14,0.8571428571428571
+inkling,mario,12,7,19,0.631578947368421
+pichu,wario,4,2,6,0.6666666666666666
+pichu,zelda,9,5,14,0.6428571428571429
+mario,rob,20,16,36,0.5555555555555556
+king dedede,ness,14,15,29,0.4827586206896552
+mii swordfighter,young link,6,1,7,0.8571428571428571
+mrgameandwatch,sonic,12,8,20,0.6
+kirby,littlemac,5,0,5,1.0
+falco,ganondorf,4,8,12,0.3333333333333333
+ike,minmin,7,2,9,0.7777777777777778
+falco,kirby,7,5,12,0.5833333333333334
+piranha plant,sonic,4,3,7,0.5714285714285714
+falco,ryu,4,1,5,0.8
+minmin,sonic,10,2,12,0.8333333333333334
+ike,kirby,9,3,12,0.75
+littlemac,snake,13,5,18,0.7222222222222222
+sheik,snake,26,23,49,0.5306122448979592
+minmin,sheik,6,3,9,0.6666666666666666
+kirby,sonic,11,2,13,0.8461538461538461
+minmin,pyra mythra,4,3,7,0.5714285714285714
+cloud,lucas,15,1,16,0.9375
+incineroar,pikachu,5,8,13,0.38461538461538464
+captainfalcon,zero suit samus,8,8,16,0.5
+captainfalcon,pikachu,8,8,16,0.5
+incineroar,kirby,3,2,5,0.6
+lucas,zero suit samus,5,2,7,0.7142857142857143
+lucas,shulk,3,6,9,0.3333333333333333
+shulk,wii fit trainer,4,3,7,0.5714285714285714
+cloud,isabelle,13,5,18,0.7222222222222222
+captainfalcon,littlemac,4,4,8,0.5
+lucario,snake,18,8,26,0.6923076923076923
+megaman,snake,17,12,29,0.5862068965517241
+megaman,zero suit samus,8,6,14,0.5714285714285714
+incineroar,pichu,9,4,13,0.6923076923076923
+pichu,pokemon trainer,9,11,20,0.45
+banjo & kazooie,snake,7,4,11,0.6363636363636364
+banjo & kazooie,incineroar,4,5,9,0.4444444444444444
+pichu,snake,14,11,25,0.56
+captainfalcon,ice climbers,7,7,14,0.5
+chrom,pikachu,7,5,12,0.5833333333333334
+chrom,inkling,12,10,22,0.5454545454545454
+inkling,king dedede,10,13,23,0.43478260869565216
+cloud,pikachu,20,15,35,0.5714285714285714
+pikachu,rob,21,13,34,0.6176470588235294
+chrom,shulk,9,9,18,0.5
+king dedede,shulk,5,3,8,0.625
+inkling,steve,13,2,15,0.8666666666666667
+falco,yoshi,17,10,27,0.6296296296296297
+joker,pacman,9,4,13,0.6923076923076923
+joker,joker,6,5,11,0.5454545454545454
+falco,richter,2,4,6,0.3333333333333333
+inkling,lucario,6,3,9,0.6666666666666666
+inkling,zero suit samus,12,3,15,0.8
+king dedede,ridley,4,2,6,0.6666666666666666
+king dedede,king k. rool,9,1,10,0.9
+king k. rool,roy,7,4,11,0.6363636363636364
+king dedede,steve,6,1,7,0.8571428571428571
+byleth,cloud,8,11,19,0.42105263157894735
+byleth,zero suit samus,4,2,6,0.6666666666666666
+cloud,inkling,25,18,43,0.5813953488372093
+cloud,roy,23,8,31,0.7419354838709677
+byleth,inkling,9,8,17,0.5294117647058824
+cloud,palutena,31,24,55,0.5636363636363636
+lucina,wolf,40,23,63,0.6349206349206349
+king k. rool,peach,6,6,12,0.5
+link,peach,9,7,16,0.5625
+greninja,lucina,14,7,21,0.6666666666666666
+king k. rool,palutena,17,9,26,0.6538461538461539
+captainfalcon,peach,13,4,17,0.7647058823529411
+greninja,king k. rool,9,5,14,0.6428571428571429
+cloud,lucina,20,22,42,0.47619047619047616
+greninja,link,10,11,21,0.47619047619047616
+captainfalcon,palutena,19,14,33,0.5757575757575758
+palutena,peach,22,25,47,0.46808510638297873
+captainfalcon,greninja,13,6,19,0.6842105263157895
+cloud,link,35,21,56,0.625
+palutena,wolf,54,36,90,0.6
+cloud,peach,17,13,30,0.5666666666666667
+captainfalcon,king k. rool,8,7,15,0.5333333333333333
+lucina,peach,12,9,21,0.5714285714285714
+cloud,wolf,39,23,62,0.6290322580645161
+greninja,yoshi,20,8,28,0.7142857142857143
+lucina,yoshi,22,39,61,0.36065573770491804
+peach,yoshi,14,7,21,0.6666666666666666
+palutena,ryu,2,3,5,0.4
+lucina,ryu,1,4,5,0.2
+greninja,ryu,5,3,8,0.625
+king k. rool,kirby,3,5,8,0.375
+kirby,lucina,7,7,14,0.5
+cloud,yoshi,31,17,48,0.6458333333333334
+wolf,yoshi,35,29,64,0.546875
+link,yoshi,24,18,42,0.5714285714285714
+cloud,ryu,7,0,7,1.0
+cloud,incineroar,7,11,18,0.3888888888888889
+lucina,pit,3,5,8,0.375
+king k. rool,pit,4,1,5,0.8
+palutena,pit,9,3,12,0.75
+captainfalcon,incineroar,8,3,11,0.7272727272727273
+pit,wolf,4,7,11,0.36363636363636365
+greninja,pit,5,3,8,0.625
+peach,pit,4,1,5,0.8
+cloud,kirby,7,2,9,0.7777777777777778
+greninja,minmin,5,2,7,0.7142857142857143
+lucina,minmin,4,4,8,0.5
+cloud,pit,6,2,8,0.75
+minmin,peach,4,1,5,0.8
+cloud,minmin,7,3,10,0.7
+lucina,lucina,7,12,19,0.3684210526315789
+chrom,minmin,3,3,6,0.5
+greninja,toon link,12,6,18,0.6666666666666666
+chrom,toon link,12,8,20,0.6
+toon link,wolf,26,13,39,0.6666666666666666
+minmin,palutena,14,8,22,0.6363636363636364
+lucina,toon link,12,12,24,0.5
+cloud,hero,6,3,9,0.6666666666666666
+darksamus,mario,4,2,6,0.6666666666666666
+falco,joker,11,11,22,0.5
+daisy,falco,5,1,6,0.8333333333333334
+banjo & kazooie,ridley,5,1,6,0.8333333333333334
+diddy kong,mrgameandwatch,14,5,19,0.7368421052631579
+terry,young link,3,2,5,0.6
+ridley,snake,15,10,25,0.6
+king dedede,wolf,16,8,24,0.6666666666666666
+king dedede,villager,9,4,13,0.6923076923076923
+link,mrgameandwatch,10,11,21,0.47619047619047616
+king dedede,palutena,15,4,19,0.7894736842105263
+link,terry,3,2,5,0.6
+king dedede,terry,4,2,6,0.6666666666666666
+diddy kong,king dedede,9,5,14,0.6428571428571429
+darkpit,snake,4,2,6,0.6666666666666666
+metaknight,samus,2,5,7,0.2857142857142857
+villager,young link,12,8,20,0.6
+metaknight,mrgameandwatch,5,2,7,0.7142857142857143
+ganondorf,wii fit trainer,3,2,5,0.6
+samus,wii fit trainer,4,1,5,0.8
+bowser,palutena,28,17,45,0.6222222222222222
+snake,wii fit trainer,6,5,11,0.5454545454545454
+ness,piranha plant,5,2,7,0.7142857142857143
+mrgameandwatch,ness,11,8,19,0.5789473684210527
+piranha plant,villager,5,2,7,0.7142857142857143
+snake,terry,9,7,16,0.5625
+darkpit,mrgameandwatch,6,1,7,0.8571428571428571
+snake,yoshi,44,19,63,0.6984126984126984
+ridley,villager,4,3,7,0.5714285714285714
+ness,samus,11,7,18,0.6111111111111112
+ike,metaknight,6,5,11,0.5454545454545454
+mrgameandwatch,ridley,4,6,10,0.4
+diddy kong,ike,13,9,22,0.5909090909090909
+ness,ridley,13,8,21,0.6190476190476191
+metaknight,pikachu,4,3,7,0.5714285714285714
+link,villager,8,6,14,0.5714285714285714
+ike,samus,9,7,16,0.5625
+ike,ridley,9,3,12,0.75
+incineroar,snake,14,10,24,0.5833333333333334
+incineroar,samus,6,3,9,0.6666666666666666
+bowser,villager,5,4,9,0.5555555555555556
+pikachu,zelda,9,8,17,0.5294117647058824
+mrgameandwatch,zelda,7,2,9,0.7777777777777778
+bowser,link,11,10,21,0.5238095238095238
+inkling,villager,6,6,12,0.5
+sonic,villager,15,6,21,0.7142857142857143
+king dedede,sonic,14,5,19,0.7368421052631579
+king dedede,snake,12,17,29,0.41379310344827586
+snake,zelda,15,19,34,0.4411764705882353
+captainfalcon,snake,34,14,48,0.7083333333333334
+king k. rool,villager,4,2,6,0.6666666666666666
+sonic,yoshi,26,12,38,0.6842105263157895
+kirby,zelda,3,5,8,0.375
+dr. mario,kirby,5,1,6,0.8333333333333334
+dr. mario,king dedede,4,3,7,0.5714285714285714
+fox,kirby,6,0,6,1.0
+kirby,pichu,1,5,6,0.16666666666666666
+joker,villager,14,9,23,0.6086956521739131
+captainfalcon,villager,11,2,13,0.8461538461538461
+dr. mario,yoshi,4,2,6,0.6666666666666666
+joker,yoshi,30,15,45,0.6666666666666666
+dr. mario,pichu,3,4,7,0.42857142857142855
+bowser,yoshi,26,13,39,0.6666666666666666
+dr. mario,zelda,2,4,6,0.3333333333333333
+inkling,yoshi,36,22,58,0.6206896551724138
+joker,king k. rool,7,5,12,0.5833333333333334
+dr. mario,inkling,7,2,9,0.7777777777777778
+kirby,snake,15,6,21,0.7142857142857143
+mrgameandwatch,pit,3,3,6,0.5
+fox,villager,14,11,25,0.56
+kirby,link,3,7,10,0.3
+king dedede,samus,11,2,13,0.8461538461538461
+jigglypuff,samus,4,2,6,0.6666666666666666
+kirby,pikachu,6,4,10,0.6
+pit,zelda,4,2,6,0.6666666666666666
+banjo & kazooie,pokemon trainer,3,2,5,0.6
+banjo & kazooie,ness,3,6,9,0.3333333333333333
+joker,snake,27,19,46,0.5869565217391305
+incineroar,minmin,4,2,6,0.6666666666666666
+joker,ness,21,13,34,0.6176470588235294
+incineroar,toon link,7,0,7,1.0
+minmin,pokemon trainer,10,2,12,0.8333333333333334
+pokemon trainer,yoshi,31,25,56,0.5535714285714286
+banjo & kazooie,yoshi,10,2,12,0.8333333333333334
+donkeykong,littlemac,4,8,12,0.3333333333333333
+minmin,ness,12,3,15,0.8
+littlemac,toon link,6,3,9,0.6666666666666666
+toon link,wii fit trainer,7,1,8,0.875
+shulk,toon link,12,6,18,0.6666666666666666
+shulk,yoshi,14,15,29,0.4827586206896552
+lucina,mario,11,8,19,0.5789473684210527
+inkling,ryu,4,3,7,0.5714285714285714
+inkling,littlemac,9,11,20,0.45
+king k. rool,sephiroth,4,1,5,0.8
+wario,yoshi,10,3,13,0.7692307692307693
+sonic,wario,13,5,18,0.7222222222222222
+king k. rool,robin,7,6,13,0.5384615384615384
+pokemon trainer,robin,15,13,28,0.5357142857142857
+pokemon trainer,samus,13,8,21,0.6190476190476191
+chrom,greninja,8,6,14,0.5714285714285714
+king k. rool,zero suit samus,11,6,17,0.6470588235294118
+sephiroth,yoshi,9,1,10,0.9
+link,robin,14,6,20,0.7
+chrom,sephiroth,5,0,5,1.0
+lucina,sonic,20,13,33,0.6060606060606061
+chrom,wolf,22,14,36,0.6111111111111112
+falco,marth,3,2,5,0.6
+pacman,wolf,12,11,23,0.5217391304347826
+greninja,pacman,6,6,12,0.5
+lucario,lucina,3,4,7,0.42857142857142855
+kirby,terry,6,0,6,1.0
+donkeykong,fox,28,12,40,0.7
+lucario,mario,5,3,8,0.625
+donkeykong,link,18,18,36,0.5
+mario,wii fit trainer,7,5,12,0.5833333333333334
+palutena,palutena,14,26,40,0.35
+kirby,palutena,4,2,6,0.6666666666666666
+minmin,wario,6,2,8,0.75
+king dedede,pikachu,10,3,13,0.7692307692307693
+donkeykong,mario,13,6,19,0.6842105263157895
+palutena,wii fit trainer,11,6,17,0.6470588235294118
+ken,palutena,21,12,33,0.6363636363636364
+mrgameandwatch,pikachu,9,9,18,0.5
+donkeykong,zero suit samus,25,23,48,0.5208333333333334
+kirby,wario,7,3,10,0.7
+link,lucario,14,9,23,0.6086956521739131
+pokemon trainer,ridley,11,5,16,0.6875
+mrgameandwatch,palutena,28,14,42,0.6666666666666666
+link,minmin,5,6,11,0.45454545454545453
+donkeykong,palutena,32,24,56,0.5714285714285714
+pacman,robin,5,9,14,0.35714285714285715
+pyra mythra,snake,22,7,29,0.7586206896551724
+captainfalcon,luigi,4,2,6,0.6666666666666666
+corrin,pokemon trainer,7,3,10,0.7
+bowser,robin,5,4,9,0.5555555555555556
+pacman,pit,4,1,5,0.8
+robin,samus,5,5,10,0.5
+king dedede,robin,4,5,9,0.4444444444444444
+cloud,wii fit trainer,8,8,16,0.5
+pacman,sora,3,3,6,0.5
+lucario,roy,2,4,6,0.3333333333333333
+mewtwo,rob,3,9,12,0.25
+snake,sora,13,10,23,0.5652173913043478
+incineroar,link,11,8,19,0.5789473684210527
+lucario,olimar,5,1,6,0.8333333333333334
+lucina,wii fit trainer,5,2,7,0.7142857142857143
+cloud,robin,13,3,16,0.8125
+bowser,kirby,4,4,8,0.5
+link,luigi,5,3,8,0.625
+pikachu,yoshi,18,8,26,0.6923076923076923
+roy,wii fit trainer,9,4,13,0.6923076923076923
+diddy kong,link,12,8,20,0.6
+link,link,2,5,7,0.2857142857142857
+palutena,zelda,25,8,33,0.7575757575757576
+lucina,roy,14,11,25,0.56
+samus,wario,6,4,10,0.6
+pokemon trainer,pokemon trainer,1,12,13,0.07692307692307693
+mario,pikachu,11,8,19,0.5789473684210527
+ness,pit,8,3,11,0.7272727272727273
+cloud,sora,6,2,8,0.75
+mewtwo,pokemon trainer,7,2,9,0.7777777777777778
+sephiroth,snake,11,8,19,0.5789473684210527
+mewtwo,palutena,5,3,8,0.625
+pikachu,pikachu,6,3,9,0.6666666666666666
+link,wario,8,8,16,0.5
+wii fit trainer,yoshi,7,5,12,0.5833333333333334
+captainfalcon,ken,10,6,16,0.625
+wario,wii fit trainer,4,3,7,0.5714285714285714
+captainfalcon,captainfalcon,4,6,10,0.4
+sheik,young link,10,6,16,0.625
+cloud,sheik,8,9,17,0.47058823529411764
+megaman,palutena,14,14,28,0.5
+captainfalcon,megaman,7,7,14,0.5
+lucina,robin,18,5,23,0.782608695652174
+incineroar,mario,4,8,12,0.3333333333333333
+ice climbers,jigglypuff,5,2,7,0.7142857142857143
+mario,robin,9,4,13,0.6923076923076923
+chrom,robin,9,3,12,0.75
+ice climbers,incineroar,1,4,5,0.2
+megaman,zelda,3,2,5,0.6
+king k. rool,richter,3,3,6,0.5
+littlemac,mrgameandwatch,5,2,7,0.7142857142857143
+lucina,rosalina & luma,6,0,6,1.0
+captainfalcon,lucario,3,4,7,0.42857142857142855
+ness,pacman,5,12,17,0.29411764705882354
+inkling,robin,18,13,31,0.5806451612903226
+ike,lucina,13,15,28,0.4642857142857143
+hero,pacman,4,1,5,0.8
+jigglypuff,mario,4,2,6,0.6666666666666666
+mewtwo,mrgameandwatch,3,2,5,0.6
+littlemac,pikachu,3,4,7,0.42857142857142855
+lucina,megaman,12,10,22,0.5454545454545454
+ice climbers,robin,5,3,8,0.625
+ike,robin,10,4,14,0.7142857142857143
+inkling,mrgameandwatch,8,9,17,0.47058823529411764
+littlemac,mario,5,2,7,0.7142857142857143
+megaman,ness,10,7,17,0.5882352941176471
+mrgameandwatch,robin,10,6,16,0.625
+littlemac,ness,8,4,12,0.6666666666666666
+ike,lucario,9,4,13,0.6923076923076923
+richter,robin,1,4,5,0.2
+littlemac,roy,6,6,12,0.5
+ike,pacman,10,4,14,0.7142857142857143
+richter,yoshi,8,2,10,0.8
+pit,yoshi,5,7,12,0.4166666666666667
+hero,yoshi,9,9,18,0.5
+olimar,roy,3,5,8,0.375
+lucas,pacman,4,1,5,0.8
+ike,mewtwo,8,1,9,0.8888888888888888
+joker,lucario,12,7,19,0.631578947368421
+palutena,pikachu,32,8,40,0.8
+ike,inkling,18,9,27,0.6666666666666666
+lucario,pikachu,15,7,22,0.6818181818181818
+pacman,yoshi,8,11,19,0.42105263157894735
+lucario,zelda,5,5,10,0.5
+ice climbers,link,2,6,8,0.25
+littlemac,lucina,8,8,16,0.5
+ice climbers,mrgameandwatch,6,2,8,0.75
+banjo & kazooie,ike,2,3,5,0.4
+ike,littlemac,5,2,7,0.7142857142857143
+ice climbers,lucina,6,4,10,0.6
+robin,zelda,7,5,12,0.5833333333333334
+mrgameandwatch,olimar,5,4,9,0.5555555555555556
+rosalina & luma,roy,5,1,6,0.8333333333333334
+banjo & kazooie,robin,4,1,5,0.8
+megaman,roy,7,3,10,0.7
+ice climbers,ike,4,3,7,0.5714285714285714
+ike,zelda,12,3,15,0.8
+mrgameandwatch,roy,7,8,15,0.4666666666666667
+incineroar,lucina,7,4,11,0.6363636363636364
+olimar,richter,3,2,5,0.6
+littlemac,pacman,4,1,5,0.8
+megaman,olimar,4,2,6,0.6666666666666666
+megaman,yoshi,16,11,27,0.5925925925925926
+captainfalcon,robin,14,3,17,0.8235294117647058
+ike,king dedede,14,3,17,0.8235294117647058
+ike,incineroar,10,8,18,0.5555555555555556
+banjo & kazooie,mrgameandwatch,8,0,8,1.0
+king dedede,peach,8,0,8,1.0
+king dedede,littlemac,6,3,9,0.6666666666666666
+king dedede,yoshi,14,8,22,0.6363636363636364
+ice climbers,wolf,9,2,11,0.8181818181818182
+jigglypuff,joker,4,4,8,0.5
+megaman,pacman,6,7,13,0.46153846153846156
+jigglypuff,roy,5,8,13,0.38461538461538464
+king dedede,lucas,4,3,7,0.5714285714285714
+ice climbers,king dedede,3,3,6,0.5
+ness,robin,14,3,17,0.8235294117647058
+inkling,richter,5,6,11,0.45454545454545453
+ike,roy,12,5,17,0.7058823529411765
+lucina,mewtwo,4,5,9,0.4444444444444444
+jigglypuff,link,10,3,13,0.7692307692307693
+captainfalcon,ike,7,6,13,0.5384615384615384
+jigglypuff,robin,3,3,6,0.5
+joker,king dedede,14,4,18,0.7777777777777778
+inkling,megaman,11,4,15,0.7333333333333333
+incineroar,lucas,3,7,10,0.3
+mario,roy,10,8,18,0.5555555555555556
+mewtwo,ness,6,2,8,0.75
+incineroar,megaman,2,3,5,0.4
+ness,palutena,35,19,54,0.6481481481481481
+peach,roy,16,6,22,0.7272727272727273
+joker,roy,9,6,15,0.6
+ice climbers,zelda,4,2,6,0.6666666666666666
+captainfalcon,king dedede,10,7,17,0.5882352941176471
+incineroar,lucario,5,0,5,1.0
+banjo & kazooie,palutena,9,1,10,0.9
+banjo & kazooie,lucina,4,1,5,0.8
+incineroar,ridley,5,6,11,0.45454545454545453
+corrin,lucina,7,3,10,0.7
+ken,robin,6,3,9,0.6666666666666666
+link,lucas,12,7,19,0.631578947368421
+ice climbers,inkling,7,4,11,0.6363636363636364
+corrin,robin,3,4,7,0.42857142857142855
+ike,ken,2,4,6,0.3333333333333333
+incineroar,littlemac,3,3,6,0.5
+lucario,wolf,7,6,13,0.5384615384615384
+hero,robin,4,2,6,0.6666666666666666
+joker,zero suit samus,27,23,50,0.54
+hero,zero suit samus,4,1,5,0.8
+robin,snake,18,5,23,0.782608695652174
+lucario,yoshi,6,5,11,0.5454545454545454
+hero,wolf,7,5,12,0.5833333333333334
+bayonetta,donkeykong,17,8,25,0.68
+donkeykong,donkeykong,5,6,11,0.45454545454545453
+bayonetta,lucina,12,12,24,0.5
+donkeykong,lucina,18,6,24,0.75
+cloud,metaknight,5,5,10,0.5
+lucario,pokemon trainer,10,6,16,0.625
+mewtwo,pikachu,6,1,7,0.8571428571428571
+mewtwo,zelda,6,2,8,0.75
+darksamus,pikachu,3,2,5,0.6
+lucario,ness,8,7,15,0.5333333333333333
+ike,young link,7,3,10,0.7
+captainfalcon,metaknight,8,4,12,0.6666666666666666
+ness,pikachu,14,16,30,0.4666666666666667
+fox,sheik,13,15,28,0.4642857142857143
+lucario,sonic,14,9,23,0.6086956521739131
+olimar,sonic,12,2,14,0.8571428571428571
+olimar,zero suit samus,16,4,20,0.8
+minmin,zero suit samus,13,5,18,0.7222222222222222
+duckhunt,fox,8,6,14,0.5714285714285714
+duckhunt,snake,14,5,19,0.7368421052631579
+sonic,zero suit samus,46,15,61,0.7540983606557377
+link,ness,16,7,23,0.6956521739130435
+link,olimar,8,3,11,0.7272727272727273
+olimar,villager,3,2,5,0.6
+pyra mythra,villager,7,5,12,0.5833333333333334
+donkeykong,duckhunt,7,11,18,0.3888888888888889
+young link,zero suit samus,10,8,18,0.5555555555555556
+cloud,donkeykong,30,13,43,0.6976744186046512
+lucario,zero suit samus,18,14,32,0.5625
+cloud,lucario,8,9,17,0.47058823529411764
+ice climbers,pikachu,4,4,8,0.5
+cloud,villager,13,8,21,0.6190476190476191
+duckhunt,wario,4,4,8,0.5
+donkeykong,jigglypuff,2,3,5,0.4
+duckhunt,link,12,3,15,0.8
+jigglypuff,zero suit samus,4,2,6,0.6666666666666666
+snake,villager,16,21,37,0.43243243243243246
+kirby,yoshi,6,3,9,0.6666666666666666
+diddy kong,king k. rool,8,5,13,0.6153846153846154
+cloud,young link,11,9,20,0.55
+fox,pikachu,26,15,41,0.6341463414634146
+pichu,villager,7,9,16,0.4375
+ness,villager,12,10,22,0.5454545454545454
+cloud,sonic,28,10,38,0.7368421052631579
+diddy kong,villager,10,7,17,0.5882352941176471
+corrin,fox,4,1,5,0.8
+pichu,yoshi,8,6,14,0.5714285714285714
+palutena,pichu,22,12,34,0.6470588235294118
+fox,minmin,4,5,9,0.4444444444444444
+minmin,villager,4,4,8,0.5
+cloud,pichu,15,3,18,0.8333333333333334
+wario,zero suit samus,9,12,21,0.42857142857142855
+link,pyra mythra,10,5,15,0.6666666666666666
+king k. rool,pichu,5,3,8,0.625
+fox,snake,50,23,73,0.684931506849315
+fox,palutena,39,20,59,0.6610169491525424
+fox,lucario,10,9,19,0.5263157894736842
+ken,pyra mythra,3,4,7,0.42857142857142855
+palutena,villager,19,13,32,0.59375
+ken,pichu,7,3,10,0.7
+cloud,zero suit samus,23,21,44,0.5227272727272727
+link,zero suit samus,25,23,48,0.5208333333333334
+donkeykong,lucario,12,8,20,0.6
+diddy kong,peach,7,3,10,0.7
+pyra mythra,young link,6,8,14,0.42857142857142855
+peach,snake,15,17,32,0.46875
+duckhunt,pikachu,9,4,13,0.6923076923076923
+cloud,falco,22,13,35,0.6285714285714286
+duckhunt,palutena,14,14,28,0.5
+falco,falco,0,8,8,0.0
+terry,zero suit samus,4,5,9,0.4444444444444444
+donkeykong,peach,5,4,9,0.5555555555555556
+pichu,young link,12,5,17,0.7058823529411765
+fox,pyra mythra,4,6,10,0.4
+cloud,pyra mythra,14,12,26,0.5384615384615384
+link,pichu,13,9,22,0.5909090909090909
+fox,peach,18,9,27,0.6666666666666666
+palutena,pyra mythra,22,14,36,0.6111111111111112
+peach,rob,18,13,31,0.5806451612903226
+ken,sonic,21,7,28,0.75
+duckhunt,lucina,6,1,7,0.8571428571428571
+fox,king dedede,8,5,13,0.6153846153846154
+duckhunt,zero suit samus,16,7,23,0.6956521739130435
+pyra mythra,sheik,11,6,17,0.6470588235294118
+peach,villager,2,5,7,0.2857142857142857
+joker,sheik,25,8,33,0.7575757575757576
+peach,sheik,7,5,12,0.5833333333333334
+ice climbers,rob,8,3,11,0.7272727272727273
+lucina,young link,18,11,29,0.6206896551724138
+roy,zero suit samus,13,2,15,0.8666666666666667
+pyra mythra,rob,18,11,29,0.6206896551724138
+ness,peach,13,11,24,0.5416666666666666
+corrin,pikachu,7,2,9,0.7777777777777778
+palutena,rob,54,37,91,0.5934065934065934
+fox,link,15,9,24,0.625
+hero,peach,4,1,5,0.8
+corrin,ness,6,2,8,0.75
+pyra mythra,roy,8,6,14,0.5714285714285714
+donkeykong,pyra mythra,9,4,13,0.6923076923076923
+lucario,villager,13,5,18,0.7222222222222222
+lucario,palutena,20,18,38,0.5263157894736842
+olimar,young link,6,0,6,1.0
+sheik,sheik,3,7,10,0.3
+ken,peach,3,7,10,0.3
+pikachu,rosalina & luma,5,1,6,0.8333333333333334
+fox,olimar,10,8,18,0.5555555555555556
+pacman,palutena,7,13,20,0.35
+pokemon trainer,villager,6,5,11,0.5454545454545454
+rosalina & luma,snake,11,4,15,0.7333333333333333
+littlemac,wario,4,2,6,0.6666666666666666
+corrin,young link,3,2,5,0.6
+fox,rosalina & luma,5,3,8,0.625
+corrin,falco,3,4,7,0.42857142857142855
+diddy kong,olimar,5,3,8,0.625
+olimar,sheik,7,4,11,0.6363636363636364
+olimar,pacman,6,5,11,0.5454545454545454
+incineroar,wario,3,6,9,0.3333333333333333
+rob,snake,41,28,69,0.5942028985507246
+corrin,peach,6,0,6,1.0
+olimar,pikachu,5,1,6,0.8333333333333334
+donkeykong,sonic,28,16,44,0.6363636363636364
+diddy kong,lucario,10,3,13,0.7692307692307693
+joker,olimar,6,12,18,0.3333333333333333
+diddy kong,jigglypuff,3,2,5,0.6
+duckhunt,villager,4,2,6,0.6666666666666666
+peach,pikachu,6,4,10,0.6
+fox,littlemac,6,1,7,0.8571428571428571
+ryu,zero suit samus,6,4,10,0.6
+diddy kong,diddy kong,2,5,7,0.2857142857142857
+littlemac,villager,1,4,5,0.2
+donkeykong,joker,19,8,27,0.7037037037037037
+duckhunt,young link,8,4,12,0.6666666666666666
+piranha plant,snake,3,4,7,0.42857142857142855
+link,sheik,14,8,22,0.6363636363636364
+link,ryu,5,2,7,0.7142857142857143
+palutena,piranha plant,10,4,14,0.7142857142857143
+ryu,snake,4,6,10,0.4
+daisy,villager,3,7,10,0.3
+daisy,sonic,10,4,14,0.7142857142857143
+link,littlemac,8,6,14,0.5714285714285714
+lucario,pichu,6,4,10,0.6
+peach,pichu,5,6,11,0.45454545454545453
+peach,wario,9,4,13,0.6923076923076923
+minmin,pikachu,7,3,10,0.7
+lucario,sora,3,2,5,0.6
+fox,young link,11,6,17,0.6470588235294118
+palutena,sora,12,6,18,0.6666666666666666
+king dedede,lucina,11,10,21,0.5238095238095238
+daisy,king dedede,6,0,6,1.0
+mii brawler,villager,4,2,6,0.6666666666666666
+sheik,sora,6,5,11,0.5454545454545454
+falco,lucario,2,5,7,0.2857142857142857
+mii brawler,snake,11,6,17,0.6470588235294118
+lucario,minmin,6,6,12,0.5
+lucario,sheik,10,9,19,0.5263157894736842
+daisy,lucario,2,3,5,0.4
+pacman,peach,11,3,14,0.7857142857142857
+pikachu,sheik,17,4,21,0.8095238095238095
+donkeykong,king dedede,7,6,13,0.5384615384615384
+king dedede,mii brawler,4,2,6,0.6666666666666666
+ness,sora,4,5,9,0.4444444444444444
+falco,villager,3,7,10,0.3
+pikachu,sora,7,6,13,0.5384615384615384
+cloud,zelda,8,5,13,0.6153846153846154
+donkeykong,young link,12,10,22,0.5454545454545454
+robin,zero suit samus,9,3,12,0.75
+daisy,snake,9,8,17,0.5294117647058824
+lucina,villager,11,7,18,0.6111111111111112
+diddy kong,robin,6,7,13,0.46153846153846156
+donkeykong,sora,5,4,9,0.5555555555555556
+donkeykong,villager,10,6,16,0.625
+sheik,villager,7,5,12,0.5833333333333334
+metaknight,snake,8,5,13,0.6153846153846154
+sonic,toon link,22,12,34,0.6470588235294118
+duckhunt,lucario,8,3,11,0.7272727272727273
+daisy,zero suit samus,11,8,19,0.5789473684210527
+daisy,pikachu,5,4,9,0.5555555555555556
+donkeykong,ken,8,6,14,0.5714285714285714
+mii brawler,richter,1,4,5,0.2
+falco,metaknight,3,4,7,0.42857142857142855
+wario,young link,7,7,14,0.5
+metaknight,zero suit samus,3,3,6,0.5
+donkeykong,zelda,11,8,19,0.5789473684210527
+diddy kong,pyra mythra,8,6,14,0.5714285714285714
+ken,villager,6,5,11,0.5454545454545454
+pyra mythra,zelda,9,3,12,0.75
+daisy,shulk,4,2,6,0.6666666666666666
+joker,peach,10,6,16,0.625
+falco,palutena,27,10,37,0.7297297297297297
+byleth,peach,7,3,10,0.7
+daisy,donkeykong,7,4,11,0.6363636363636364
+byleth,palutena,8,6,14,0.5714285714285714
+byleth,donkeykong,6,2,8,0.75
+diddy kong,rob,15,14,29,0.5172413793103449
+pyra mythra,wario,8,7,15,0.5333333333333333
+fox,joker,17,13,30,0.5666666666666667
+cloud,rob,50,19,69,0.7246376811594203
+daisy,link,5,2,7,0.7142857142857143
+byleth,daisy,3,5,8,0.375
+jigglypuff,rob,8,5,13,0.6153846153846154
+richter,toon link,3,3,6,0.5
+snake,toon link,28,20,48,0.5833333333333334
+rob,zero suit samus,29,7,36,0.8055555555555556
+jigglypuff,palutena,3,4,7,0.42857142857142855
+pyra mythra,sonic,5,3,8,0.625
+link,toon link,14,8,22,0.6363636363636364
+daisy,toon link,3,4,7,0.42857142857142855
+richter,snake,11,7,18,0.6111111111111112
+mii brawler,rob,8,5,13,0.6153846153846154
+joker,piranha plant,4,5,9,0.4444444444444444
+mii brawler,ness,6,2,8,0.75
+donkeykong,snake,38,11,49,0.7755102040816326
+kirby,young link,5,5,10,0.5
+daisy,young link,5,4,9,0.5555555555555556
+daisy,fox,6,3,9,0.6666666666666666
+richter,samus,3,2,5,0.6
+samus,snake,21,6,27,0.7777777777777778
+donkeykong,toon link,16,8,24,0.6666666666666666
+pokemon trainer,richter,7,4,11,0.6363636363636364
+ken,toon link,12,4,16,0.75
+pikachu,richter,3,4,7,0.42857142857142855
+diddy kong,richter,4,5,9,0.4444444444444444
+pichu,sheik,7,4,11,0.6363636363636364
+kirby,villager,4,1,5,0.8
+sheik,shulk,8,3,11,0.7272727272727273
+cloud,piranha plant,8,3,11,0.7272727272727273
+littlemac,sheik,7,1,8,0.875
+fox,jigglypuff,5,2,7,0.7142857142857143
+peach,toon link,11,8,19,0.5789473684210527
+joker,mii brawler,2,3,5,0.4
+peach,young link,9,1,10,0.9
+joker,littlemac,3,5,8,0.375
+mii brawler,peach,4,1,5,0.8
+pokemon trainer,pyra mythra,11,8,19,0.5789473684210527
+greninja,snake,15,8,23,0.6521739130434783
+daisy,pyra mythra,6,4,10,0.6
+diddy kong,greninja,10,11,21,0.47619047619047616
+joker,metaknight,5,3,8,0.625
+pikachu,toon link,13,8,21,0.6190476190476191
+greninja,pyra mythra,10,7,17,0.5882352941176471
+greninja,zero suit samus,9,12,21,0.42857142857142855
+daisy,greninja,4,1,5,0.8
+diddy kong,toon link,10,9,19,0.5263157894736842
+pichu,pyra mythra,5,6,11,0.45454545454545453
+duckhunt,sheik,2,3,5,0.4
+lucario,young link,3,3,6,0.5
+cloud,duckhunt,6,6,12,0.5
+diddy kong,pichu,16,4,20,0.8
+lucario,pyra mythra,8,5,13,0.6153846153846154
+daisy,diddy kong,6,0,6,1.0
+richter,sheik,4,1,5,0.8
+daisy,joker,2,8,10,0.2
+corrin,link,3,3,6,0.5
+corrin,toon link,5,1,6,0.8333333333333334
+ice climbers,villager,4,2,6,0.6666666666666666
+diddy kong,mii brawler,4,3,7,0.5714285714285714
+pokemon trainer,rob,36,21,57,0.631578947368421
+diddy kong,shulk,5,6,11,0.45454545454545453
+rosalina & luma,sonic,3,2,5,0.6
+cloud,mii brawler,5,5,10,0.5
+ice climbers,snake,5,4,9,0.5555555555555556
+king dedede,pokemon trainer,19,9,28,0.6785714285714286
+mario,sonic,6,1,7,0.8571428571428571
+rosalina & luma,shulk,10,0,10,1.0
+donkeykong,mii brawler,5,1,6,0.8333333333333334
+pokemon trainer,sephiroth,5,2,7,0.7142857142857143
+falco,sephiroth,5,2,7,0.7142857142857143
+lucario,wario,5,3,8,0.625
+ken,lucario,7,5,12,0.5833333333333334
+chrom,zelda,6,3,9,0.6666666666666666
+isabelle,ness,5,4,9,0.5555555555555556
+mario,minmin,6,5,11,0.5454545454545454
+lucario,mrgameandwatch,3,4,7,0.42857142857142855
+captainfalcon,minmin,3,6,9,0.3333333333333333
+jigglypuff,king dedede,1,5,6,0.16666666666666666
+minmin,zelda,2,3,5,0.4
+cloud,wario,9,4,13,0.6923076923076923
+kirby,ness,8,8,16,0.5
+pokemon trainer,sheik,11,7,18,0.6111111111111112
+ike,isabelle,9,3,12,0.75
+ike,toon link,8,10,18,0.4444444444444444
+fox,sora,6,3,9,0.6666666666666666
+diddy kong,littlemac,6,4,10,0.6
+duckhunt,ike,11,4,15,0.7333333333333333
+pikachu,robin,5,6,11,0.45454545454545453
+ike,link,11,5,16,0.6875
+king dedede,pyra mythra,8,3,11,0.7272727272727273
+littlemac,pokemon trainer,6,3,9,0.6666666666666666
+wii fit trainer,zero suit samus,10,3,13,0.7692307692307693
+ice climbers,zero suit samus,3,2,5,0.6
+ike,pikachu,8,4,12,0.6666666666666666
+chrom,zero suit samus,12,8,20,0.6
+ike,pokemon trainer,16,7,23,0.6956521739130435
+chrom,snake,12,20,32,0.375
+shulk,young link,9,6,15,0.6
+ike,zero suit samus,10,10,20,0.5
+link,mii brawler,4,2,6,0.6666666666666666
+mrgameandwatch,wario,5,2,7,0.7142857142857143
+mii brawler,palutena,13,8,21,0.6190476190476191
+shulk,wario,1,4,5,0.2
+falco,mii brawler,3,3,6,0.5
+ike,rob,19,14,33,0.5757575757575758
+isabelle,mario,5,2,7,0.7142857142857143
+cloud,ike,11,9,20,0.55
+donkeykong,mrgameandwatch,13,6,19,0.6842105263157895
+isabelle,kirby,5,4,9,0.5555555555555556
+donkeykong,ike,16,8,24,0.6666666666666666
+pyra mythra,wii fit trainer,2,5,7,0.2857142857142857
+ice climbers,pokemon trainer,7,2,9,0.7777777777777778
+mrgameandwatch,sheik,8,6,14,0.5714285714285714
+donkeykong,pikachu,14,11,25,0.56
+king dedede,sheik,9,2,11,0.8181818181818182
+bowser,sheik,7,5,12,0.5833333333333334
+king dedede,wario,7,3,10,0.7
+captainfalcon,rob,17,14,31,0.5483870967741935
+ike,villager,7,1,8,0.875
+ganondorf,pyra mythra,5,2,7,0.7142857142857143
+ken,kirby,3,3,6,0.5
+yoshi,zero suit samus,12,16,28,0.42857142857142855
+mewtwo,sheik,3,2,5,0.6
+minmin,shulk,1,4,5,0.2
+mii brawler,zero suit samus,4,3,7,0.5714285714285714
+ice climbers,sonic,2,3,5,0.4
+link,shulk,10,5,15,0.6666666666666666
+olimar,palutena,16,11,27,0.5925925925925926
+ike,pyra mythra,9,5,14,0.6428571428571429
+shulk,villager,6,5,11,0.5454545454545454
+donkeykong,olimar,8,2,10,0.8
+kirby,zero suit samus,6,2,8,0.75
+fox,ike,9,4,13,0.6923076923076923
+mii brawler,pikachu,7,5,12,0.5833333333333334
+mii brawler,toon link,5,3,8,0.625
+mewtwo,snake,8,1,9,0.8888888888888888
+ice climbers,young link,5,0,5,1.0
+donkeykong,kirby,9,3,12,0.75
+link,rob,19,16,35,0.5428571428571428
+mewtwo,wario,4,5,9,0.4444444444444444
+megaman,shulk,5,4,9,0.5555555555555556
+donkeykong,shulk,17,4,21,0.8095238095238095
+villager,yoshi,5,9,14,0.35714285714285715
+duckhunt,pyra mythra,3,4,7,0.42857142857142855
+daisy,pokemon trainer,5,3,8,0.625
+mewtwo,sora,5,0,5,1.0
+kirby,mii brawler,3,2,5,0.6
+littlemac,palutena,12,7,19,0.631578947368421
+banjo & kazooie,diddy kong,5,1,6,0.8333333333333334
+link,sora,4,1,5,0.8
+king dedede,piranha plant,4,1,5,0.8
+samus,villager,5,1,6,0.8333333333333334
+kirby,mrgameandwatch,3,2,5,0.6
+chrom,joker,16,5,21,0.7619047619047619
+rosalina & luma,young link,2,4,6,0.3333333333333333
+king dedede,lucario,4,1,5,0.8
+fox,wii fit trainer,6,6,12,0.5
+palutena,rosalina & luma,6,9,15,0.4
+chrom,king dedede,6,4,10,0.6
+chrom,mrgameandwatch,8,4,12,0.6666666666666666
+mrgameandwatch,wii fit trainer,4,1,5,0.8
+daisy,mrgameandwatch,3,2,5,0.6
+bayonetta,villager,1,4,5,0.2
+cloud,joker,27,14,41,0.6585365853658537
+littlemac,marth,2,3,5,0.4
+marth,zero suit samus,5,3,8,0.625
+jigglypuff,wolf,7,5,12,0.5833333333333334
+marth,rob,7,3,10,0.7
+simon,zero suit samus,5,1,6,0.8333333333333334
+pichu,shulk,8,5,13,0.6153846153846154
+ice climbers,pacman,5,2,7,0.7142857142857143
+pikachu,wolf,14,12,26,0.5384615384615384
+pacman,ryu,4,4,8,0.5
+minmin,pichu,3,2,5,0.6
+olimar,wolf,11,4,15,0.7333333333333333
+olimar,robin,4,2,6,0.6666666666666666
+kirby,pacman,4,4,8,0.5
+robin,shulk,8,5,13,0.6153846153846154
+marth,pichu,4,1,5,0.8
+dr. mario,zero suit samus,2,3,5,0.4
+olimar,ryu,3,2,5,0.6
+pacman,shulk,4,2,6,0.6666666666666666
+dr. mario,pacman,4,4,8,0.5
+pichu,wolf,13,8,21,0.6190476190476191
+marth,ridley,5,2,7,0.7142857142857143
+dr. mario,toon link,9,7,16,0.5625
+kirby,samus,3,2,5,0.6
+kirby,ridley,2,3,5,0.4
+greninja,wii fit trainer,2,3,5,0.4
+isabelle,samus,6,1,7,0.8571428571428571
+minmin,wolf,7,11,18,0.3888888888888889
+greninja,isabelle,4,4,8,0.5
+falco,greninja,5,2,7,0.7142857142857143
+megaman,ridley,8,5,13,0.6153846153846154
+chrom,cloud,18,8,26,0.6923076923076923
+dr. mario,pokemon trainer,4,2,6,0.6666666666666666
+incineroar,rosalina & luma,5,3,8,0.625
+chrom,duckhunt,6,3,9,0.6666666666666666
+metaknight,roy,5,6,11,0.45454545454545453
+greninja,ness,15,4,19,0.7894736842105263
+duckhunt,joker,7,9,16,0.4375
+mario,metaknight,8,2,10,0.8
+megaman,young link,8,2,10,0.8
+bowser,chrom,13,2,15,0.8666666666666667
+donkeykong,metaknight,3,2,5,0.6
+megaman,toon link,5,7,12,0.4166666666666667
+megaman,samus,8,2,10,0.8
+duckhunt,jigglypuff,4,1,5,0.8
+greninja,joker,9,12,21,0.42857142857142855
+mario,megaman,9,5,14,0.6428571428571429
+megaman,pichu,8,10,18,0.4444444444444444
+metaknight,sonic,5,1,6,0.8333333333333334
+bowser,cloud,19,8,27,0.7037037037037037
+dr. mario,ness,5,3,8,0.625
+megaman,metaknight,7,5,12,0.5833333333333334
+metaknight,pichu,6,2,8,0.75
+incineroar,shulk,4,9,13,0.3076923076923077
+bowser,megaman,4,2,6,0.6666666666666666
+palutena,samus,16,13,29,0.5517241379310345
+megaman,megaman,6,5,11,0.5454545454545454
+cloud,king dedede,15,6,21,0.7142857142857143
+cloud,megaman,17,7,24,0.7083333333333334
+joker,mario,14,5,19,0.7368421052631579
+dr. mario,palutena,5,5,10,0.5
+chrom,corrin,7,1,8,0.875
+cloud,simon,4,5,9,0.4444444444444444
+donkeykong,ridley,9,4,13,0.6923076923076923
+cloud,rosalina & luma,6,2,8,0.75
+megaman,rob,18,3,21,0.8571428571428571
+dr. mario,greninja,5,4,9,0.5555555555555556
+simon,snake,5,4,9,0.5555555555555556
+mario,peach,9,5,14,0.6428571428571429
+pacman,simon,4,3,7,0.5714285714285714
+peach,rosalina & luma,6,1,7,0.8571428571428571
+robin,toon link,5,4,9,0.5555555555555556
+dr. mario,metaknight,4,2,6,0.6666666666666666
+lucas,sheik,3,2,5,0.6
+inkling,sheik,4,1,5,0.8
+rob,rob,14,22,36,0.3888888888888889
+dr. mario,snake,14,4,18,0.7777777777777778
+greninja,sheik,5,5,10,0.5
+chrom,sheik,3,2,5,0.6
+dr. mario,peach,5,4,9,0.5555555555555556
+bowser,peach,12,5,17,0.7058823529411765
+greninja,sonic,10,9,19,0.5263157894736842
+link,rosalina & luma,3,2,5,0.6
+diddy kong,megaman,8,5,13,0.6153846153846154
+joker,megaman,13,4,17,0.7647058823529411
+lucas,rob,21,6,27,0.7777777777777778
+mrgameandwatch,samus,8,6,14,0.5714285714285714
+lucas,richter,1,4,5,0.2
+chrom,palutena,16,11,27,0.5925925925925926
+joker,simon,1,4,5,0.2
+inkling,metaknight,9,6,15,0.6
+dr. mario,samus,5,3,8,0.625
+byleth,snake,5,2,7,0.7142857142857143
+mario,sheik,9,2,11,0.8181818181818182
+hero,wii fit trainer,3,3,6,0.5
+richter,wolf,8,9,17,0.47058823529411764
+incineroar,mrgameandwatch,10,2,12,0.8333333333333334
+metaknight,richter,3,2,5,0.6
+chrom,rob,15,9,24,0.625
+mrgameandwatch,peach,8,2,10,0.8
+byleth,sheik,4,2,6,0.6666666666666666
+chrom,luigi,8,1,9,0.8888888888888888
+metaknight,palutena,13,5,18,0.7222222222222222
+luigi,yoshi,8,4,12,0.6666666666666666
+peach,pokemon trainer,19,9,28,0.6785714285714286
+lucas,metaknight,4,1,5,0.8
+greninja,lucas,9,6,15,0.6
+peach,zelda,9,0,9,1.0
+duckhunt,rosalina & luma,4,1,5,0.8
+richter,rob,11,4,15,0.7333333333333333
+olimar,wario,2,3,5,0.4
+chrom,dr. mario,4,3,7,0.5714285714285714
+chrom,ice climbers,6,2,8,0.75
+greninja,greninja,2,6,8,0.25
+cloud,olimar,11,2,13,0.8461538461538461
+captainfalcon,pichu,9,7,16,0.5625
+peach,shulk,8,6,14,0.5714285714285714
+captainfalcon,olimar,4,1,5,0.8
+chrom,mario,9,1,10,0.9
+dr. mario,sheik,2,4,6,0.3333333333333333
+duckhunt,inkling,4,4,8,0.5
+pacman,young link,7,4,11,0.6363636363636364
+pacman,samus,8,5,13,0.6153846153846154
+luigi,peach,8,4,12,0.6666666666666666
+olimar,peach,6,5,11,0.5454545454545454
+lucas,toon link,5,4,9,0.5555555555555556
+corrin,rob,6,9,15,0.4
+duckhunt,megaman,3,5,8,0.375
+cloud,dr. mario,5,6,11,0.45454545454545453
+mario,rosalina & luma,4,1,5,0.8
+incineroar,sonic,9,5,14,0.6428571428571429
+rob,villager,12,6,18,0.6666666666666666
+luigi,villager,3,2,5,0.6
+metaknight,shulk,8,2,10,0.8
+pichu,pikachu,7,5,12,0.5833333333333334
+greninja,young link,10,2,12,0.8333333333333334
+pichu,pichu,2,3,5,0.4
+chrom,wario,6,3,9,0.6666666666666666
+greninja,pichu,8,6,14,0.5714285714285714
+metaknight,olimar,5,0,5,1.0
+chrom,diddy kong,6,5,11,0.5454545454545454
+olimar,snake,8,7,15,0.5333333333333333
+olimar,shulk,7,5,12,0.5833333333333334
+bowser,olimar,7,0,7,1.0
+palutena,roy,19,18,37,0.5135135135135135
+cloud,daisy,7,5,12,0.5833333333333334
+ness,wii fit trainer,11,2,13,0.8461538461538461
+kirby,rob,9,2,11,0.8181818181818182
+fox,lucas,4,5,9,0.4444444444444444
+lucas,peach,6,3,9,0.6666666666666666
+king dedede,metaknight,4,5,9,0.4444444444444444
+dr. mario,joker,4,2,6,0.6666666666666666
+joker,wolf,39,18,57,0.6842105263157895
+corrin,joker,7,1,8,0.875
+chrom,link,15,7,22,0.6818181818181818
+mrgameandwatch,pyra mythra,4,4,8,0.5
+byleth,captainfalcon,8,2,10,0.8
+inkling,olimar,13,2,15,0.8666666666666667
+byleth,dr. mario,3,4,7,0.42857142857142855
+olimar,yoshi,5,2,7,0.7142857142857143
+byleth,yoshi,9,2,11,0.8181818181818182
+metaknight,wario,4,1,5,0.8
+corrin,jigglypuff,3,3,6,0.5
+captainfalcon,sheik,6,4,10,0.6
+metaknight,wolf,13,4,17,0.7647058823529411
+duckhunt,wolf,7,5,12,0.5833333333333334
+ike,sonic,13,4,17,0.7647058823529411
+inkling,peach,14,6,20,0.7
+olimar,pokemon trainer,5,10,15,0.3333333333333333
+luigi,olimar,7,3,10,0.7
+chrom,peach,10,6,16,0.625
+rosalina & luma,wolf,6,2,8,0.75
+byleth,joker,9,0,9,1.0
+mario,mii swordfighter,6,1,7,0.8571428571428571
+rob,rosalina & luma,6,0,6,1.0
+megaman,sonic,9,2,11,0.8181818181818182
+metaknight,villager,3,2,5,0.6
+incineroar,isabelle,5,1,6,0.8333333333333334
+byleth,wolf,12,3,15,0.8
+megaman,villager,4,1,5,0.8
+isabelle,zero suit samus,4,3,7,0.5714285714285714
+bowser,mii swordfighter,5,5,10,0.5
+pokemon trainer,simon,6,3,9,0.6666666666666666
+byleth,lucas,5,2,7,0.7142857142857143
+incineroar,palutena,13,6,19,0.6842105263157895
+duckhunt,shulk,7,0,7,1.0
+ridley,sonic,10,4,14,0.7142857142857143
+bowser,mii brawler,4,2,6,0.6666666666666666
+isabelle,joker,6,3,9,0.6666666666666666
+ice climbers,peach,3,2,5,0.6
+ridley,sheik,3,2,5,0.6
+fox,greninja,11,5,16,0.6875
+greninja,richter,3,2,5,0.6
+duckhunt,lucas,4,2,6,0.6666666666666666
+mii brawler,pokemon trainer,7,4,11,0.6363636363636364
+megaman,peach,9,2,11,0.8181818181818182
+greninja,roy,13,15,28,0.4642857142857143
+joker,rob,23,14,37,0.6216216216216216
+chrom,yoshi,17,9,26,0.6538461538461539
+isabelle,lucas,3,4,7,0.42857142857142855
+corrin,mrgameandwatch,5,5,10,0.5
+byleth,incineroar,4,1,5,0.8
+duckhunt,metaknight,3,3,6,0.5
+palutena,simon,7,1,8,0.875
+shulk,shulk,4,1,5,0.8
+mii brawler,mrgameandwatch,6,0,6,1.0
+bowser,greninja,9,9,18,0.5
+ice climbers,yoshi,4,1,5,0.8
+joker,mrgameandwatch,15,4,19,0.7894736842105263
+sheik,yoshi,5,4,9,0.5555555555555556
+lucas,samus,5,3,8,0.625
+lucas,pokemon trainer,7,5,12,0.5833333333333334
+lucas,mii brawler,2,4,6,0.3333333333333333
+donkeykong,inkling,26,11,37,0.7027027027027027
+cloud,richter,7,4,11,0.6363636363636364
+cloud,ridley,11,4,15,0.7333333333333333
+rob,robin,18,5,23,0.782608695652174
+donkeykong,roy,16,5,21,0.7619047619047619
+cloud,ice climbers,5,10,15,0.3333333333333333
+mrgameandwatch,villager,3,4,7,0.42857142857142855
+joker,samus,10,4,14,0.7142857142857143
+captainfalcon,mii brawler,6,1,7,0.8571428571428571
+dr. mario,link,4,1,5,0.8
+lucas,pikachu,4,4,8,0.5
+greninja,ice climbers,6,0,6,1.0
+ridley,shulk,10,4,14,0.7142857142857143
+lucas,sonic,8,4,12,0.6666666666666666
+chrom,pyra mythra,8,4,12,0.6666666666666666
+inkling,ridley,9,11,20,0.45
+fox,incineroar,8,5,13,0.6153846153846154
+chrom,villager,8,5,13,0.6153846153846154
+lucas,pichu,4,2,6,0.6666666666666666
+chrom,incineroar,7,3,10,0.7
+chrom,ken,2,3,5,0.4
+inkling,sonic,16,13,29,0.5517241379310345
+isabelle,toon link,6,5,11,0.5454545454545454
+greninja,rosalina & luma,5,2,7,0.7142857142857143
+greninja,pikachu,11,2,13,0.8461538461538461
+lucas,mario,4,3,7,0.5714285714285714
+inkling,pichu,8,8,16,0.5
+olimar,rob,13,5,18,0.7222222222222222
+chrom,olimar,3,2,5,0.6
+corrin,zero suit samus,9,3,12,0.75
+roy,sheik,6,2,8,0.75
+inkling,jigglypuff,8,5,13,0.6153846153846154
+cloud,samus,11,3,14,0.7857142857142857
+joker,minmin,9,3,12,0.75
+isabelle,peach,5,1,6,0.8333333333333334
+greninja,ken,5,3,8,0.625
+dr. mario,sonic,2,3,5,0.4
+chrom,pacman,8,4,12,0.6666666666666666
+pyra mythra,rosalina & luma,3,2,5,0.6
+olimar,toon link,3,5,8,0.375
+metaknight,minmin,3,2,5,0.6
+dr. mario,wolf,7,8,15,0.4666666666666667
+banjo & kazooie,roy,2,5,7,0.2857142857142857
+banjo & kazooie,pikachu,4,3,7,0.5714285714285714
+robin,villager,5,2,7,0.7142857142857143
+megaman,simon,1,4,5,0.2
+banjo & kazooie,greninja,5,0,5,1.0
+pichu,simon,2,5,7,0.2857142857142857
+banjo & kazooie,metaknight,3,2,5,0.6
+hero,piranha plant,5,1,6,0.8333333333333334
+inkling,mii brawler,3,4,7,0.42857142857142855
+hero,megaman,3,3,6,0.5
+ness,olimar,9,5,14,0.6428571428571429
+lucina,olimar,3,4,7,0.42857142857142855
+megaman,pokemon trainer,14,3,17,0.8235294117647058
+hero,olimar,3,2,5,0.6
+greninja,pokemon trainer,18,10,28,0.6428571428571429
+ken,olimar,3,6,9,0.3333333333333333
+pichu,sora,3,2,5,0.6
+king dedede,kirby,5,3,8,0.625
+diddy kong,ridley,10,5,15,0.6666666666666666
+donkeykong,minmin,6,1,7,0.8571428571428571
+minmin,yoshi,7,5,12,0.5833333333333334
+ridley,yoshi,12,5,17,0.7058823529411765
+pacman,ridley,4,1,5,0.8
+ridley,wario,8,2,10,0.8
+incineroar,young link,6,3,9,0.6666666666666666
+inkling,wario,14,5,19,0.7368421052631579
+ike,terry,4,3,7,0.5714285714285714
+sonic,terry,6,3,9,0.6666666666666666
+falco,ridley,9,4,13,0.6923076923076923
+joker,zelda,11,5,16,0.6875
+incineroar,terry,4,3,7,0.5714285714285714
+darkpit,incineroar,2,3,5,0.4
+mewtwo,terry,3,3,6,0.5
+incineroar,sora,3,3,6,0.5
+ridley,samus,4,3,7,0.5714285714285714
+falco,pichu,11,2,13,0.8461538461538461
+mario,ridley,5,7,12,0.4166666666666667
+luigi,zelda,5,6,11,0.45454545454545453
+cloud,mewtwo,8,4,12,0.6666666666666666
+luigi,mrgameandwatch,3,5,8,0.375
+kazuya,samus,7,1,8,0.875
+donkeykong,dr. mario,3,4,7,0.42857142857142855
+luigi,sora,4,1,5,0.8
+kazuya,link,2,3,5,0.4
+bayonetta,greninja,5,3,8,0.625
+donkeykong,incineroar,9,3,12,0.75
+bayonetta,robin,4,1,5,0.8
+ike,pichu,5,4,9,0.5555555555555556
+fox,inkling,16,7,23,0.6956521739130435
+corrin,inkling,7,3,10,0.7
+bayonetta,ken,2,4,6,0.3333333333333333
+byleth,falco,5,2,7,0.7142857142857143
+isabelle,wario,4,1,5,0.8
+bayonetta,incineroar,2,3,5,0.4
+greninja,wario,5,3,8,0.625
+bayonetta,sephiroth,5,4,9,0.5555555555555556
+luigi,pichu,5,1,6,0.8333333333333334
+roy,roy,6,7,13,0.46153846153846156
+inkling,pikachu,10,6,16,0.625
+kirby,pokemon trainer,10,3,13,0.7692307692307693
+bayonetta,joker,7,5,12,0.5833333333333334
+chrom,sonic,7,6,13,0.5384615384615384
+king dedede,olimar,4,1,5,0.8
+corrin,mario,9,1,10,0.9
+king k. rool,shulk,3,2,5,0.6
+corrin,shulk,3,3,6,0.5
+corrin,king k. rool,5,5,10,0.5
+diddy kong,rosalina & luma,5,7,12,0.4166666666666667
+inkling,lucas,8,10,18,0.4444444444444444
+lucas,yoshi,11,7,18,0.6111111111111112
+metaknight,yoshi,8,6,14,0.5714285714285714
+rosalina & luma,yoshi,7,6,13,0.5384615384615384
+link,roy,11,8,19,0.5789473684210527
+inkling,minmin,7,5,12,0.5833333333333334
+ridley,rob,16,6,22,0.7272727272727273
+lucina,shulk,9,12,21,0.42857142857142855
+fox,king k. rool,9,4,13,0.6923076923076923
+king k. rool,olimar,6,3,9,0.6666666666666666
+chrom,young link,4,5,9,0.4444444444444444
+chrom,ness,16,9,25,0.64
+king k. rool,megaman,6,2,8,0.75
+falco,olimar,6,3,9,0.6666666666666666
+chrom,king k. rool,6,7,13,0.46153846153846156
+bowser,darkpit,2,4,6,0.3333333333333333
+darkpit,link,4,1,5,0.8
+bayonetta,palutena,12,7,19,0.631578947368421
+ike,luigi,10,1,11,0.9090909090909091
+darkpit,ike,3,5,8,0.375
+darkpit,luigi,3,2,5,0.6
+darkpit,inkling,5,6,11,0.45454545454545453
+marth,toon link,6,5,11,0.5454545454545454
+diddy kong,marth,1,5,6,0.16666666666666666
+marth,wario,4,1,5,0.8
+darkpit,sonic,2,3,5,0.4
+darkpit,pokemon trainer,5,5,10,0.5
+chrom,samus,2,4,6,0.3333333333333333
+chrom,donkeykong,7,8,15,0.4666666666666667
+metaknight,ridley,3,2,5,0.6
+jigglypuff,yoshi,3,5,8,0.375
+ike,yoshi,22,13,35,0.6285714285714286
+palutena,terry,15,3,18,0.8333333333333334
+bowser,terry,4,4,8,0.5
+lucina,terry,6,1,7,0.8571428571428571
+lucas,ness,12,5,17,0.7058823529411765
+chrom,lucina,20,4,24,0.8333333333333334
+ike,shulk,6,1,7,0.8571428571428571
+ike,rosalina & luma,4,1,5,0.8
+dr. mario,mario,2,3,5,0.4
+piranha plant,roy,3,2,5,0.6
+kazuya,piranha plant,3,2,5,0.6
+isabelle,piranha plant,4,1,5,0.8
+rob,terry,11,3,14,0.7857142857142857
+donkeykong,isabelle,3,4,7,0.42857142857142855
+bowserjr,marth,7,1,8,0.875
+ike,mii brawler,3,4,7,0.42857142857142855
+terry,zelda,3,3,6,0.5
+marth,peach,4,3,7,0.5714285714285714
+greninja,zelda,6,1,7,0.8571428571428571
+kazuya,palutena,1,4,5,0.2
+joker,marth,3,7,10,0.3
+marth,palutena,9,8,17,0.5294117647058824
+bayonetta,littlemac,3,2,5,0.6
+bayonetta,megaman,1,6,7,0.14285714285714285
+bayonetta,captainfalcon,6,2,8,0.75
+bayonetta,cloud,11,9,20,0.55
+jigglypuff,pikachu,6,2,8,0.75
+jigglypuff,zelda,4,3,7,0.5714285714285714
+falco,megaman,5,2,7,0.7142857142857143
+ganondorf,mario,9,3,12,0.75
+ganondorf,toon link,4,4,8,0.5
+ness,rosalina & luma,5,4,9,0.5555555555555556
+ganondorf,rosalina & luma,2,4,6,0.3333333333333333
+ganondorf,ness,13,9,22,0.5909090909090909
+pikachu,terry,2,3,5,0.4
+hero,rob,13,6,19,0.6842105263157895
+hero,snake,5,2,7,0.7142857142857143
+donkeykong,wii fit trainer,5,6,11,0.45454545454545453
+donkeykong,king k. rool,7,7,14,0.5
+king k. rool,yoshi,14,9,23,0.6086956521739131
+hero,joker,4,2,6,0.6666666666666666
+hero,king dedede,4,3,7,0.5714285714285714
+hero,pokemon trainer,6,3,9,0.6666666666666666
+hero,mrgameandwatch,5,2,7,0.7142857142857143
+pichu,pit,4,1,5,0.8
+mario,pit,6,3,9,0.6666666666666666
+donkeykong,greninja,5,8,13,0.38461538461538464
+ness,yoshi,25,20,45,0.5555555555555556
+link,pit,2,3,5,0.4
+bowser,pit,7,0,7,1.0
+link,metaknight,4,3,7,0.5714285714285714
+palutena,sephiroth,7,9,16,0.4375
+megaman,sephiroth,5,2,7,0.7142857142857143
+donkeykong,robin,11,5,16,0.6875
+greninja,piranha plant,1,4,5,0.2
+corrin,diddy kong,8,2,10,0.8
+isabelle,king dedede,8,3,11,0.7272727272727273
+chrom,pokemon trainer,16,8,24,0.6666666666666666
+robin,rosalina & luma,3,3,6,0.5
+cloud,cloud,7,13,20,0.35
+greninja,king dedede,3,3,6,0.5
+diddy kong,wolf,27,9,36,0.75
+piranha plant,rob,5,2,7,0.7142857142857143
+fox,piranha plant,5,2,7,0.7142857142857143
+mii brawler,pichu,6,0,6,1.0
+chrom,lucario,4,2,6,0.6666666666666666
+sora,yoshi,8,4,12,0.6666666666666666
+diddy kong,terry,5,2,7,0.7142857142857143
+darkpit,ness,4,2,6,0.6666666666666666
+lucina,mrgameandwatch,13,2,15,0.8666666666666667
+falco,peach,7,3,10,0.7
+king dedede,pichu,5,4,9,0.5555555555555556
+jigglypuff,toon link,4,1,5,0.8
+darkpit,yoshi,6,2,8,0.75
+greninja,sora,6,1,7,0.8571428571428571
+joker,wii fit trainer,7,1,8,0.875
+bayonetta,link,9,6,15,0.6
+diddy kong,mii swordfighter,4,1,5,0.8
+mii swordfighter,pokemon trainer,9,3,12,0.75
+diddy kong,metaknight,2,3,5,0.4
+chrom,jigglypuff,9,5,14,0.6428571428571429
+sephiroth,zero suit samus,1,4,5,0.2
+link,megaman,5,0,5,1.0
+joker,terry,5,1,6,0.8333333333333334
+mii swordfighter,terry,3,2,5,0.6
+ike,simon,3,4,7,0.42857142857142855
+littlemac,yoshi,9,5,14,0.6428571428571429
+corrin,olimar,3,3,6,0.5
+darkpit,lucina,5,2,7,0.7142857142857143
+link,sephiroth,3,3,6,0.5
+bayonetta,king dedede,4,5,9,0.4444444444444444
+ganondorf,pichu,8,4,12,0.6666666666666666
+fox,megaman,6,2,8,0.75
+mario,olimar,5,5,10,0.5
+darkpit,fox,2,5,7,0.2857142857142857
+kirby,roy,2,3,5,0.4
+chrom,kirby,5,2,7,0.7142857142857143
+sephiroth,villager,3,3,6,0.5
+pikachu,sephiroth,3,2,5,0.6
+joker,mii swordfighter,2,3,5,0.4
+bowser,hero,6,1,7,0.8571428571428571
+daisy,pichu,4,2,6,0.6666666666666666
+lucina,pichu,9,7,16,0.5625
+corrin,metaknight,3,2,5,0.6
+peach,ridley,5,2,7,0.7142857142857143
+jigglypuff,kirby,5,3,8,0.625
+mii swordfighter,sonic,3,2,5,0.6
+mrgameandwatch,sora,4,2,6,0.6666666666666666
+lucina,mii swordfighter,7,2,9,0.7777777777777778
+robin,young link,5,5,10,0.5
+mii brawler,rosalina & luma,3,2,5,0.6
+king k. rool,lucas,5,4,9,0.5555555555555556
+corrin,yoshi,9,6,15,0.6
+pyra mythra,terry,6,2,8,0.75
+byleth,chrom,5,1,6,0.8333333333333334
+ken,lucas,4,1,5,0.8
+chrom,isabelle,5,3,8,0.625
+megaman,wolf,15,9,24,0.625
+byleth,lucina,6,0,6,1.0
+rob,simon,8,2,10,0.8
+littlemac,peach,5,2,7,0.7142857142857143
+rosalina & luma,zelda,6,4,10,0.6
+byleth,olimar,6,1,7,0.8571428571428571
+cloud,corrin,9,2,11,0.8181818181818182
+mii brawler,wario,3,2,5,0.6
+pit,snake,2,3,5,0.4
+olimar,pyra mythra,6,4,10,0.6
+simon,wolf,3,2,5,0.6
+ike,olimar,8,2,10,0.8
+mrgameandwatch,richter,5,3,8,0.625
+peach,richter,6,0,6,1.0
+mario,ryu,3,2,5,0.6
+king k. rool,littlemac,4,2,6,0.6666666666666666
+ganondorf,king k. rool,9,6,15,0.6
+ganondorf,peach,6,1,7,0.8571428571428571
+ganondorf,minmin,6,4,10,0.6
+rob,wii fit trainer,7,5,12,0.5833333333333334
+hero,inkling,6,1,7,0.8571428571428571
+joker,mewtwo,3,4,7,0.42857142857142855
+greninja,mewtwo,7,4,11,0.6363636363636364
+darkpit,palutena,2,6,8,0.25
+cloud,sephiroth,5,4,9,0.5555555555555556
+richter,wii fit trainer,3,3,6,0.5
+ganondorf,snake,15,4,19,0.7894736842105263
+cloud,ganondorf,6,13,19,0.3157894736842105
+hero,link,3,3,6,0.5
+shulk,terry,2,4,6,0.3333333333333333
+bowser,minmin,5,5,10,0.5
+chrom,wii fit trainer,8,1,9,0.8888888888888888
+simon,yoshi,3,5,8,0.375
+littlemac,samus,6,1,7,0.8571428571428571
+olimar,zelda,6,1,7,0.8571428571428571
+ganondorf,pokemon trainer,8,10,18,0.4444444444444444
+ganondorf,joker,8,3,11,0.7272727272727273
+byleth,rosalina & luma,6,0,6,1.0
+fox,fox,2,7,9,0.2222222222222222
+falco,hero,5,2,7,0.7142857142857143
+darksamus,luigi,4,1,5,0.8
+inkling,terry,8,4,12,0.6666666666666666
+marth,samus,5,0,5,1.0
+bayonetta,mewtwo,4,1,5,0.8
+mrgameandwatch,mrgameandwatch,4,2,6,0.6666666666666666
+king dedede,king dedede,2,3,5,0.4
+ganondorf,inkling,10,6,16,0.625
+darksamus,palutena,3,2,5,0.6
+marth,roy,3,2,5,0.6
+ganondorf,yoshi,16,12,28,0.5714285714285714
+ganondorf,pacman,5,2,7,0.7142857142857143
+darksamus,lucina,5,2,7,0.7142857142857143
+kazuya,lucina,4,3,7,0.5714285714285714
+banjo & kazooie,pichu,2,3,5,0.4
+terry,wolf,7,3,10,0.7
+isabelle,king k. rool,3,5,8,0.375
+darkpit,wolf,7,5,12,0.5833333333333334
+mii swordfighter,wolf,4,4,8,0.5
+lucina,ridley,8,5,13,0.6153846153846154
+greninja,metaknight,3,3,6,0.5
+bowserjr,luigi,3,2,5,0.6
+bowserjr,peach,10,3,13,0.7692307692307693
+duckhunt,samus,6,1,7,0.8571428571428571
+bowserjr,fox,4,3,7,0.5714285714285714
+mii brawler,wolf,3,6,9,0.3333333333333333
+megaman,mrgameandwatch,6,4,10,0.6
+greninja,inkling,13,8,21,0.6190476190476191
+fox,mewtwo,2,6,8,0.25
+luigi,sheik,3,2,5,0.6
+bowser,mewtwo,6,3,9,0.6666666666666666
+megaman,mewtwo,2,3,5,0.4
+mewtwo,pyra mythra,4,2,6,0.6666666666666666
+ike,sephiroth,5,1,6,0.8333333333333334
+isabelle,yoshi,13,7,20,0.65
+robin,terry,4,2,6,0.6666666666666666
+hero,hero,3,2,5,0.6
+hero,isabelle,3,3,6,0.5
+kazuya,rob,4,4,8,0.5
+lucas,robin,6,1,7,0.8571428571428571
+bowserjr,king k. rool,5,2,7,0.7142857142857143
+bowserjr,wii fit trainer,3,2,5,0.6
+bowserjr,robin,5,3,8,0.625
+banjo & kazooie,joker,4,1,5,0.8
+bayonetta,peach,4,6,10,0.4
+rob,sora,7,3,10,0.7
+fox,terry,5,3,8,0.625
+peach,peach,2,3,5,0.4
+bayonetta,yoshi,15,8,23,0.6521739130434783
+mii swordfighter,palutena,4,5,9,0.4444444444444444
+chrom,lucas,6,4,10,0.6
+ganondorf,megaman,2,4,6,0.3333333333333333
+donkeykong,ganondorf,9,3,12,0.75
+bowserjr,pichu,2,4,6,0.3333333333333333
+bowserjr,lucina,5,10,15,0.3333333333333333
+link,wii fit trainer,5,3,8,0.625
+bowserjr,king dedede,3,3,6,0.5
+donkeykong,rosalina & luma,5,3,8,0.625
+captainfalcon,isabelle,8,3,11,0.7272727272727273
+captainfalcon,rosalina & luma,5,1,6,0.8333333333333334
+king k. rool,rosalina & luma,3,2,5,0.6
+darksamus,ike,3,2,5,0.6
+darkpit,mii brawler,3,2,5,0.6
+ganondorf,roy,14,7,21,0.6666666666666666
+hero,richter,2,4,6,0.3333333333333333
+ganondorf,rob,12,8,20,0.6
+ganondorf,ridley,8,2,10,0.8
+inkling,rosalina & luma,6,1,7,0.8571428571428571
+diddy kong,kirby,3,3,6,0.5
+corrin,donkeykong,8,2,10,0.8
+captainfalcon,richter,2,4,6,0.3333333333333333
+king k. rool,mrgameandwatch,4,3,7,0.5714285714285714
+mii swordfighter,rob,6,4,10,0.6
+ganondorf,mrgameandwatch,4,6,10,0.4
+bowserjr,richter,6,0,6,1.0
+ganondorf,zelda,3,8,11,0.2727272727272727
+bowserjr,pokemon trainer,9,7,16,0.5625
+mii brawler,roy,3,2,5,0.6
+ganondorf,lucina,11,7,18,0.6111111111111112
+king dedede,luigi,13,2,15,0.8666666666666667
+bayonetta,mii swordfighter,7,2,9,0.7777777777777778
+darksamus,snake,5,1,6,0.8333333333333334
+mii swordfighter,yoshi,5,1,6,0.8333333333333334
+mii swordfighter,snake,7,2,9,0.7777777777777778
+mii swordfighter,villager,3,2,5,0.6
+bayonetta,kirby,3,2,5,0.6
+pacman,rosalina & luma,2,3,5,0.4
+ganondorf,ike,7,5,12,0.5833333333333334
+chrom,ganondorf,10,2,12,0.8333333333333334
+bowserjr,link,6,2,8,0.75
+chrom,ike,9,6,15,0.6
+ganondorf,samus,4,4,8,0.5
+pyra mythra,sephiroth,3,2,5,0.6
+bowserjr,palutena,5,10,15,0.3333333333333333
+bowserjr,yoshi,12,9,21,0.5714285714285714
+ganondorf,wario,6,2,8,0.75
+bowserjr,joker,8,3,11,0.7272727272727273
+bowserjr,donkeykong,5,4,9,0.5555555555555556
+bowserjr,ganondorf,5,0,5,1.0
+bowserjr,ness,6,4,10,0.6
+marth,villager,3,2,5,0.6
+bowserjr,corrin,1,4,5,0.2
+bowserjr,inkling,8,6,14,0.5714285714285714
+ganondorf,shulk,8,4,12,0.6666666666666666
+marth,terry,4,2,6,0.6666666666666666
+bowserjr,chrom,8,3,11,0.7272727272727273
+bowserjr,falco,4,5,9,0.4444444444444444
+duckhunt,hero,4,1,5,0.8
+donkeykong,hero,7,3,10,0.7
+hero,samus,6,3,9,0.6666666666666666
+pacman,pyra mythra,5,4,9,0.5555555555555556
+dr. mario,fox,3,3,6,0.5
+chrom,fox,10,6,16,0.625
+bowserjr,shulk,7,0,7,1.0
+greninja,incineroar,2,4,6,0.3333333333333333
+donkeykong,marth,7,4,11,0.6363636363636364
+marth,yoshi,5,7,12,0.4166666666666667
+chrom,mii brawler,8,2,10,0.8
+lucina,sephiroth,5,1,6,0.8333333333333334
+mewtwo,wolf,4,5,9,0.4444444444444444
+bowser,bowserjr,5,2,7,0.7142857142857143
+bayonetta,bowserjr,3,3,6,0.5
+bowserjr,sonic,4,5,9,0.4444444444444444
+pit,pokemon trainer,6,3,9,0.6666666666666666
+inkling,simon,3,2,5,0.6
+inkling,inkling,14,16,30,0.4666666666666667
+banjo & kazooie,inkling,5,0,5,1.0
+hero,wario,3,2,5,0.6
+lucas,pyra mythra,5,0,5,1.0
+chrom,ridley,4,4,8,0.5
+bowserjr,ridley,5,3,8,0.625
+bowserjr,roy,4,4,8,0.5
+banjo & kazooie,king dedede,6,1,7,0.8571428571428571
+bowser,lucas,8,3,11,0.7272727272727273
+lucas,wario,3,4,7,0.42857142857142855
+chrom,kazuya,2,3,5,0.4
+darkpit,rob,6,7,13,0.46153846153846156
+byleth,pikachu,3,4,7,0.42857142857142855
+ness,terry,0,6,6,0.0
+mii swordfighter,ness,7,2,9,0.7777777777777778
+lucas,roy,12,3,15,0.8
+byleth,shulk,5,1,6,0.8333333333333334
+lucas,zelda,1,5,6,0.16666666666666666
+luigi,minmin,6,1,7,0.8571428571428571
+ganondorf,richter,4,4,8,0.5
+kazuya,megaman,2,3,5,0.4
+ganondorf,zero suit samus,4,2,6,0.6666666666666666
+lucas,mrgameandwatch,3,2,5,0.6
+ganondorf,kirby,7,1,8,0.875
+jigglypuff,ridley,3,3,6,0.5
+ganondorf,palutena,5,6,11,0.45454545454545453
+bayonetta,toon link,2,3,5,0.4
+chrom,marth,3,2,5,0.6
+marth,sonic,3,2,5,0.6
+lucina,marth,3,6,9,0.3333333333333333
+inkling,kirby,8,2,10,0.8
+bowser,richter,4,4,8,0.5
+ganondorf,marth,3,4,7,0.42857142857142855
+falco,terry,5,1,6,0.8333333333333334
+link,mewtwo,4,3,7,0.5714285714285714
+inkling,mewtwo,5,3,8,0.625
+king k. rool,king k. rool,2,6,8,0.25
+bowserjr,zelda,4,2,6,0.6666666666666666
+richter,sonic,4,3,7,0.5714285714285714
+megaman,wario,1,5,6,0.16666666666666666
+bowserjr,captainfalcon,9,1,10,0.9
+link,ridley,6,2,8,0.75
+luigi,palutena,14,3,17,0.8235294117647058
+ganondorf,young link,4,1,5,0.8
+fox,ganondorf,5,6,11,0.45454545454545453
+daisy,inkling,5,1,6,0.8333333333333334
+bayonetta,pacman,7,1,8,0.875
+darksamus,donkeykong,3,2,5,0.6
+cloud,darkpit,7,3,10,0.7
+captainfalcon,daisy,2,3,5,0.4
+cloud,mii swordfighter,5,1,6,0.8333333333333334
+king k. rool,toon link,5,2,7,0.7142857142857143
+incineroar,mii gunner,2,3,5,0.4
+bowserjr,snake,7,6,13,0.5384615384615384
+ganondorf,lucas,4,5,9,0.4444444444444444
+marth,pokemon trainer,5,3,8,0.625
+bowserjr,wolf,6,5,11,0.5454545454545454
+ganondorf,luigi,9,2,11,0.8181818181818182
+ike,lucas,5,3,8,0.625
+incineroar,simon,3,2,5,0.6
+mii brawler,wii fit trainer,3,2,5,0.6
+olimar,ridley,2,3,5,0.4
+bowserjr,minmin,7,3,10,0.7
+captainfalcon,lucas,6,3,9,0.6666666666666666
+ganondorf,isabelle,6,2,8,0.75
+mii gunner,mii swordfighter,5,1,6,0.8333333333333334
+daisy,yoshi,9,0,9,1.0
+bowserjr,villager,3,5,8,0.375
+mewtwo,yoshi,7,3,10,0.7
+chrom,roy,12,6,18,0.6666666666666666
+kirby,toon link,5,1,6,0.8333333333333334
+bayonetta,chrom,5,4,9,0.5555555555555556
+chrom,mii swordfighter,2,4,6,0.3333333333333333
+darksamus,yoshi,2,4,6,0.3333333333333333
+link,richter,3,4,7,0.42857142857142855
+king k. rool,metaknight,5,0,5,1.0
+chrom,darksamus,3,4,7,0.42857142857142855
+banjo & kazooie,peach,5,0,5,1.0
+mii gunner,wolf,7,0,7,1.0
+donkeykong,luigi,7,4,11,0.6363636363636364
+mii gunner,palutena,3,4,7,0.42857142857142855
+diddy kong,mewtwo,2,3,5,0.4
+bowserjr,young link,5,1,6,0.8333333333333334
+king k. rool,ridley,4,5,9,0.4444444444444444
+mii brawler,ridley,4,1,5,0.8
+king dedede,megaman,5,1,6,0.8333333333333334
+ganondorf,king dedede,4,2,6,0.6666666666666666
+incineroar,king dedede,5,5,10,0.5
+chrom,darkpit,4,3,7,0.5714285714285714
+donkeykong,megaman,7,6,13,0.5384615384615384
+byleth,samus,3,3,6,0.5
+byleth,richter,0,5,5,0.0
+mario,richter,3,4,7,0.42857142857142855
+marth,snake,6,2,8,0.75
+lucina,mii brawler,4,4,8,0.5
+darkpit,falco,4,2,6,0.6666666666666666
+bowser,dr. mario,1,4,5,0.2
+darksamus,ness,6,3,9,0.6666666666666666
+darkpit,mario,4,1,5,0.8
+ridley,ridley,3,2,5,0.6
+mii brawler,yoshi,4,2,6,0.6666666666666666
+ken,ridley,3,5,8,0.375
+kirby,metaknight,4,1,5,0.8
+captainfalcon,darksamus,0,5,5,0.0
+bowser,darksamus,3,3,6,0.5
+darkpit,marth,3,2,5,0.6
+byleth,robin,8,0,8,1.0
+chrom,megaman,6,6,12,0.5
+jigglypuff,pacman,4,1,5,0.8
+corrin,rosalina & luma,4,1,5,0.8
+olimar,samus,4,1,5,0.8
+chrom,falco,8,5,13,0.6153846153846154
+cloud,mii gunner,3,2,5,0.6
+captainfalcon,mii swordfighter,5,0,5,1.0
+samus,samus,2,4,6,0.3333333333333333
+incineroar,mii brawler,3,2,5,0.6
+ike,megaman,6,3,9,0.6666666666666666
+megaman,mii swordfighter,2,4,6,0.3333333333333333
+darkpit,joker,4,1,5,0.8
+donkeykong,mii gunner,3,2,5,0.6
+bayonetta,mii gunner,4,1,5,0.8
+bowserjr,mewtwo,5,1,6,0.8333333333333334
+darksamus,inkling,5,1,6,0.8333333333333334
+ganondorf,villager,4,2,6,0.6666666666666666
+ganondorf,sonic,2,5,7,0.2857142857142857
+hero,sheik,3,2,5,0.6
+pikachu,simon,3,2,5,0.6
+ganondorf,metaknight,5,2,7,0.7142857142857143
+pyra mythra,ridley,3,4,7,0.42857142857142855
+ganondorf,pikachu,4,1,5,0.8
+byleth,ike,2,4,6,0.3333333333333333
+megaman,pikachu,2,4,6,0.3333333333333333
+rosalina & luma,samus,4,4,8,0.5
+chrom,mii gunner,4,2,6,0.6666666666666666
+robin,sephiroth,6,1,7,0.8571428571428571
+byleth,ridley,3,2,5,0.6
+lucario,luigi,4,1,5,0.8
+isabelle,megaman,3,2,5,0.6
+ridley,robin,2,3,5,0.4
+link,marth,6,2,8,0.75
+mii gunner,roy,2,4,6,0.3333333333333333
+donkeykong,terry,5,1,6,0.8333333333333334
+chrom,hero,3,3,6,0.5
+bowserjr,mrgameandwatch,5,2,7,0.7142857142857143

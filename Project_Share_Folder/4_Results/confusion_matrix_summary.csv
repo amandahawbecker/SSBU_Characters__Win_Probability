@@ -1,0 +1,5 @@
+Category,Count,Percentage,Description,Example Matchups
+True Positives,301,80.91397849462365,Correctly predicted Character 1 wins,inkling vs wii fit trainer
+True Negatives,8,2.1505376344086025,Correctly predicted Character 2 wins,greninja vs greninja
+False Positives,52,13.978494623655912,Incorrectly predicted Character 1 wins (Character 2 actually won),falco vs ken
+False Negatives,11,2.956989247311828,Incorrectly predicted Character 2 wins (Character 1 actually won),sora vs yoshi

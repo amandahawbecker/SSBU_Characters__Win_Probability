@@ -1,0 +1,9 @@
+Category,Count,Percentage,Sample Matchups
+"True Positives
+(Char1 Wins, Predicted Char1 Wins)",301,80.91397849462365,"inkling vs wii fit trainer, ridley vs sheik, wario vs wii fit trainer"
+"True Negatives
+(Char2 Wins, Predicted Char2 Wins)",8,2.1505376344086025,"greninja vs greninja, yoshi vs yoshi, samus vs samus"
+"False Positives
+(Char2 Wins, Predicted Char1 Wins)",52,13.978494623655912,"falco vs ken, chrom vs young link, mii gunner vs palutena"
+"False Negatives
+(Char1 Wins, Predicted Char2 Wins)",11,2.956989247311828,"sora vs yoshi, byleth vs lucina, steve vs wolf"

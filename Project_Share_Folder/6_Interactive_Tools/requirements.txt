@@ -1,0 +1,29 @@
+# Super Smash Bros. Ultimate Matchup Prediction Project
+# Python Dependencies
+
+# Core Data Processing
+pandas>=1.0.0
+numpy>=1.19.0
+
+# Machine Learning
+scikit-learn>=0.24.0
+
+# Visualization
+matplotlib>=3.3.0
+seaborn>=0.11.0
+
+# Statistical Analysis
+scipy>=1.5.0
+
+# Excel File Support (for frame data)
+openpyxl>=3.0.0
+
+# Note: The following are built-in Python modules and don't need installation:
+# - sqlite3 (database)
+# - tkinter (GUI - comes with Python)
+# - json (data parsing)
+# - collections (data structures)
+# - itertools (iterators)
+# - warnings (warning management)
+# - pickle (serialization)
+

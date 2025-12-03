@@ -1,0 +1,4 @@
+model,accuracy
+Logistic Regression (binary),0.8387096774193549
+Random Forest (binary),0.8548387096774194
+Gradient Boosting (binary),0.8413978494623656

@@ -1,0 +1,4 @@
+model,accuracy
+Logistic Regression (3-class),0.7231182795698925
+Random Forest (3-class),0.739247311827957
+Gradient Boosting (3-class),0.7016129032258065
