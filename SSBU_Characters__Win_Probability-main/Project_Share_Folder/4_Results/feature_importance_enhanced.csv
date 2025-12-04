@@ -1,0 +1,19 @@
+feature,importance
+weight_diff,0.11146962700197541
+killpower_diff,0.08660691729537905
+combo_game_diff,0.08099510387160992
+edgeguard_diff,0.07633983672806652
+ledgetrap_diff,0.07593919190218965
+cheese_diff,0.07292733712121517
+speed_diff,0.06161782080709882
+recovery_diff,0.05960667143441818
+projectiles_diff,0.05583580312291402
+spacing_diff,0.04773895755934909
+Maximum Horizontal Air Speed_diff,0.03963563690403021
+Dash Initial Velocity_diff,0.03842535828834199
+Run Maximum Velocity_diff,0.036774757383739524
+Gravity_diff,0.03580573647333556
+Maximum Fall Speed_diff,0.031724165626349075
+Walk Maximum Velocity_diff,0.031532160639366556
+Weight_diff,0.029730582730215484
+Maximum Air Acceleration_diff,0.027294335110405583

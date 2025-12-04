@@ -1,0 +1,18 @@
+Character,Actual Tier,Predicted Tier,Correct
+Pikachu,0,2,False
+Ness,1,0,False
+Jigglypuff,2,1,False
+Peach,4,1,False
+Lucina,1,3,False
+Chrom,2,1,False
+Ike,3,0,False
+Lucas,2,3,False
+King Dedede,3,3,True
+Megaman,1,1,True
+Pac-Man,0,0,True
+Robin,3,4,False
+Bowser Jr.,3,1,False
+Cloud,0,1,False
+Hero,1,3,False
+Byleth,1,3,False
+Pyra Mythra,4,3,False
